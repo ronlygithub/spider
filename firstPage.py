@@ -11,25 +11,45 @@ def getHtml(url):
     if( page.info().get('Content-Encoding')  == 'gzip'):
     	html = StringIO.StringIO(html)
     	html =  gzip.GzipFile(fileobj=html)
+    write("soufang.txt",html)
     return html
 
-def getImg(html):
-    reg = r'src="(.+?\.jpg)" pic_ext'
-    imgre = re.compile(reg)
-    imglist = re.findall(imgre,html)
-    x = 0
-    for imgurl in imglist:
-        urllib2.urlretrieve(imgurl,'/home/ronly/%s.jpg' %x)
-        x+=1
+def getDetailPageUrl(html):
+     # get house list part in html 
+     html = read("soufang.txt")
+     divReg = re.compile(r'shaixuan[\s\S]*?divMaylikeUl')
+     divHouseList = divReg.findall( str(html))
+     
+     # pattern for housedetail page url
+     reg  = r'http://\w+?\.fang\.com/(?=")'
+     detailUrlReg = re.compile(reg)
+     detailList = detailUrlReg.findall(divHouseList[0])
+     detailList = list(set(detailList))
+     detailList = [line+'\n' for line in detailList]
+     print len(detailList)
+     write("souFangDetailPageUrls.txt",detailList)
+     
 
-def write(html):
+def write(path,html):
      print 'write start'
-     f = file("soufang.txt","w+")
+     f = file(path,"a")
      f.writelines(html)
      f.close()	
      print 'write completed'
 
+def read(path):
+     print 'reading'
+     input  = open(path, "r")
+     html = input.read()	
+     input.close()
+     return html
+
 
 html = getHtml("http://newhouse.sy.fang.com/house/s/")
-write(html)
+getDetailPageUrl(html)
+
+def main():
+     startURL = "http://newhouse.sy.fang.com/house/s/"
+     
+
 
