@@ -1,0 +1,604 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>【泰莱16区商铺,店铺,门面,店面出租·出售·租赁价格信息】-沈阳商铺网-搜房网</title>
+<meta name="keywords" content="泰莱16区商铺出租、泰莱16区商铺出售、泰莱16区楼盘详情、泰莱16区楼盘介绍、沈阳浑南区理工大学、住宅底商/社区商铺" />
+<meta name="description" content="泰莱16区位于沈阳浑南新区，地处富民南街与汇泉东路交汇处，整个项目占地6万平方米，规划建筑面积13万，分为两期开发。由50-130O的多层、洋房、小高和高层住宅组成。" />
+<link type="text/css" href="http://img.soufun.com/rent/image/rent/styles/head.css?v=20120308" rel="stylesheet" media="all" />  
+<link href="http://js.soufunimg.com/newhouse/style/office/lpdetail201208.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+/*视频滑动门*/
+function show_menu(num){
+	for(i=0;i<100;i++){
+		if(document.getElementById('li0'+i)){
+		document.getElementById('li0'+i).style.display='none';
+		document.getElementById('f0'+i).className='shipin03';
+	    }
+	}
+	document.getElementById('li0'+num).style.display='block';//触发以后信息块
+	document.getElementById('f0'+num).className='shipin030';//触发以后TAG样式
+} 
+</script>
+<style>
+.green{color:#669900;}
+.videoIcon{ background:url(http://img1.soufun.com/house/detail_php/imageshequ/iconVideo.gif) no-repeat; padding-left:22px}
+</style>
+
+</head>
+<body>
+<div class="sqheader_sq">
+  <!--topNav-->
+
+<style>
+/* 20120815更新 */
+.fL {display: inline;float: left;}
+.fR {display: inline;float: right;}
+.map_nav {height: 30px;line-height: 30px;}
+.map_nav  a { color:#049!important;}
+.map_date {color: #FF0000;}
+.topLine {border-top:1px solid #ccc;padding-top:5px;}
+</style>
+
+<!--2011-8-8 18:32:22 update : -->
+<script>
+isNorth = "Y";
+uvcode  = ['UA-24140496-1','UA-24830445-1','UA-24831118-2'];
+uv_bid  = '305019';
+</script>
+
+<script type="text/javascript">
+var _dctc=_dctc || {};
+_dctc._account=_dctc._account || uvcode;
+_dctc.isNorth = _dctc.isNorth || isNorth;
+_dctc.bid = uv_bid;
+(function() {
+    var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+    script.src = 'http://js.soufunimg.com/count/load.min.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+  })();
+</script>
+<link href="http://js.soufunimg.com/newhouse/style/shequ/head0724.css" rel="stylesheet" type="text/css" />
+<script src="http://js.soufunimg.com/newhouse/js/shequ/AC_RunActiveContent.js" type="text/javascript"></script>
+<link href="http://js.soufunimg.com/newhouse/style/loginbox.css?v=001" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/logindiv.js?v=004"></script>
+<script type="text/javascript" src="http://img.soufun.com/house/detail_new/js/Root.Xml.js"></script>
+    <!--HEAD_SITENAVI_BEGIN--> 
+    <div class="topNavBox_sq"> 
+        <div class="topNav_sq"> 
+            <ul class="list_sq"> 
+                <li><a class="nTitle" href="http://www.fang.com" target="_blank">首页</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" href="http://news.sy.fang.com/" target="_blank">资讯</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://newhouse.sy.fang.com/">新房</a>&nbsp;&nbsp;<a class="nTitle" target="_blank" href="http://esf.sy.fang.com/">二手房</a>&nbsp;&nbsp;<a class="nTitle" target="_blank" href="http://zu.sy.fang.com/">租房</a></li> <li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://home.sy.fang.com/">装修家居</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://bbs.sy.fang.com">业主论坛</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://fdc.fang.com/data/">地产数据</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://dai.txdai.com/">金融贷款</a></li><li><span class="Sline">|</span></li><li><a class="nTitle" target="_blank" href="http://client.3g.fang.com/http/wap/index.html">移动APP</a></li>
+            </ul> 
+			<!--HEAD_LOGIN_BEGIN-->
+            <ul class="list_sq listright" id="topHeadLogin" style="display:none;">
+                <li><a class="nTitle" href="http://www.fang.com/space/Index.aspx" target="_blank" id="sfHeadUsername"></a></li>
+                <li><span class="Sline">|</span></li>
+                <li><a class="nTitle" href="#" id="sfHeadLogout">退出</a></li>
+                <li><span class="Sline">|</span></li>
+                <li><!--HEAD_XFB_LOGIN_BEGIN--><a class="nTitle" href="http://www.fang.com/xinfangbang/login.html" title="新房帮登录" target="_blank">新房帮登录</a><!--HEAD_XFB_LOGIN_END--></li>
+            </ul>
+			<!--HEAD_LOGIN_END-->
+			<!--HEAD_LOGOUT_BEGIN-->
+            <ul class="list_sq listright" id="topHeadNotLogin" style="display:none;">
+                <li><a class="nTitle" href="javascript:void(0)" onClick="showid('showlogindiv')">登录</a></li>
+                <li><span class="Sline">|</span></li>
+                <li><a class="nTitle" href="#" target="_blank" id="sfHeadRegister">注册</a></li>
+                <li><span class="Sline">|</span></li>
+                <li><!--HEAD_XFB_LOGOUT_BEGIN--><a class="nTitle" href="http://www.fang.com/xinfangbang/login.html" title="新房帮登录" target="_blank">新房帮登录</a><!--HEAD_XFB_LOGOUT_END--></li>
+            </ul>
+			<!--HEAD_LOGOUT_END-->
+        </div> 
+    </div> 
+    <!--HEAD_SITENAVI_END--> 
+
+<!--HEAD_LOGINPOP_BEGIN-->
+<div id="showlogindiv" class="tc_box1 userdefinedbox jqmWindow jqmID4" style="width: 358px; z-index: 3000; display: none;">
+	<p class="tc_box1_title">
+    	<span class="tc_b1_t_left">请输入登录信息&nbsp;&nbsp;<span style="font-size:12px;font-weight:bold;color:#ff0000;" class="noneBox" id="loginerror"></span></span>
+    	<a class="tc_b1_t_right" onclick="hideid('showlogindiv')" title="关闭"></a>  
+    </p>
+    <ul class="tc_box1_comment">
+    	<li class="tc_b1_c_up">
+<form id="login" method="post" action="/house/web/user_login.php" name="login">	
+        	<dl>
+            	<dt>用户名：</dt>
+            	<dd><input type="text" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" value="手机号/邮箱/用户名" style="color:#686868" class="inp_frame1" name="username" id="strusername"></dd>
+            </dl>
+        	<dl>
+            	<dt><span class="inp_space">密</span>码：</dt>
+            	<dd><input type="password" value="" class="inp_frame1" name="password" id="strpassword"></dd>
+            </dl>
+            <dl>
+            	<dd>
+					<input type="hidden" name="backurl" id="shHeadBackurl" value="" />
+                	<input type="button" value="登录" class="inp_btns_01" onclick="document.getElementById('login').submit();">
+                    <span class="inp_word"><a class="inp_link" target="_blank" href="http://passport.fang.com/getpass.aspx">忘记密码</a>？</span>
+                </dd>
+             <dd></dd>
+            </dl>
+</form>
+        </li>
+    	<li class="tc_b1_c_down">没有搜房通行证？<a class="inp_link" target="_blank" id="sfHeadRegister2" href="http://passport.fang.com/register.aspx">马上注册一个</a></li>
+    </ul>
+</div>
+<!--HEAD_LOGINPOP_END-->
+<!--HEAD_LOGINJS_BEGIN-->
+<script language="javascript">
+var ajaxHost = "";
+var regservice = "newhouse";
+var reghost = "newhouse.soufun.com";
+</script>
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/newhouse_login.js?v=003"></script>
+<!--HEAD_LOGINJS_BEGIN-->  <!--topNav end-->
+</div>
+<!-- 新搜索条 begin-->
+
+<!--
+{$d_newhouse_search_tpl}
+<div class="blank8"></div>
+<div style="border-top: 1px solid #CCCCCC;padding-top: 5px;width:960px; margin:0 auto"></div>
+-->
+
+<!-- 新搜索条 end-->
+  <!--logo-->
+    <!--HEAD_LOGOINFO_BEGIN-->	
+    <div class="logoBox_sq"> 
+        <div class="logopic_sq"><a id="" title="泰莱16区小区网" href="http://tailai16qu.fang.com/shop/"><img id="sqlogo" src="http://img.soufun.com/viewimage/house/2010_06/28/shenyang/1277713480908_000/80x60c.jpg" width="80" height="60" border="0"/></a></div> 
+        <div class="ceninfo_sq"> 
+            <h1 class="fl"><a id="" href="http://tailai16qu.fang.com/shop/">泰莱16区小区网</a></h1> 
+									<p class="W_total_sq">
+                <span class="red">38425</span> 次浏览&nbsp;&nbsp;[<a id="" href="http://bbs.sy.fang.com/soufun_forum/ownerforum/BBS_OwnerForum_AddressBookNew.aspx/sign=commerce&Bid=-1" target="_blank">申请认证</a>]
+            </p> 
+        </div> 
+		        <div class="clear"></div> 
+    </div> 
+    <!--HEAD_LOGOINFO_END--> 
+    <!--HEAD_SHEQUNAVI_BEGIN--> 
+    <div class="snav_sq"> 
+        <ul> 
+											            <li class="sq_On"><a href="http://tailai16qu.fang.com/shop/" target="_self">楼盘首页</a></li>
+											            <li><a href="http://tailai16qu.fang.com/shop/photo/1617672549.htm" target="_self">楼盘相册</a></li>
+											            <li><a href="http://tailai16qu.fang.com/shop/chuzu/" target="_self">出租房源</a></li>
+											            <li><a href="http://tailai16qu.fang.com/shop/chushou/" target="_self">出售房源</a></li>
+											            <li><a href="http://tailai16qu.fang.com/shop/xiangqing/" target="_self">楼盘详情</a></li>
+											            <li><a href="http://bbs.sy.fang.com/board/commerce/" target="_self">楼盘论坛</a></li>
+					
+        </ul> 
+    </div> 
+    <!--HEAD_SHEQUNAVI_END-->  <!--Nav end-->
+<div class="clear"></div>
+<!--nav end-->
+<div id="wrap">
+  <div class="wrap mt10">
+    <div class="lpbl">
+      <div class="lpblbox borderb01">
+        <div class="title"><span class="biaoti">泰莱16区</span><span class="gray6">[浑南区 理工大学]  <span title="富民南街33号（奥体中心南行800米）">富民南街33号（奥体中心南行800米）</span></span> <a href="#map">查看地图>></a></div>
+        <div class="jiage">
+          <dl>
+            <dt><strong>售 价:</strong>
+			均价<strong class="org font14">16000</strong>元/平方米 
+			</dt>
+                        <dt style="clear:left;"><strong>租 金: </strong>
+			<strong class="org font14">待定</strong>
+			</dt>
+                      </dl>
+        </div>
+        <div class="xiangqing">
+          <dl>
+            <dd>物业类别：住宅底商/社区商铺</dd>
+            <dd>总 层 数：18层</dd>
+            <dd>物 业 费：1.50元/平方米·月</dd>
+            <dd>建筑面积：130000平方米</dd>
+            <dd>总 户 数：暂无资料</dd>
+            <dd>竣工时间：2011-06-01</dd>
+            <dd>电梯数量：暂无资料</dd>
+            <dd>停 车 位：暂无资料</dd>
+            <dt>物业公司：嘉诚物业</dt>
+          </dl>
+        </div>
+        <div class="floatr"><a href="http://tailai16qu.fang.com/shop/xiangqing/" target="_blank"><img src="http://img1.soufun.com/house/detail_php/img_detail/moredetail.jpg" alt="更多详情" /></a></div>
+      </div>
+      <div class="lpblbox1 borderb01 mt10">
+        <dl class="title02">
+          <dt class="name">楼盘简介</dt>
+        </dl>
+        <div class="jianjie">泰莱16区位于沈阳浑南新区，地处富民南街与汇泉东路交汇处，整个项目占地6万平方米，规划建筑面积13万，分为两期开发。由50-130O的多层、洋房、小高和高层住宅组成。<a href="http://tailai16qu.fang.com/shop/xiangqing/">[查看详情]</a></div>
+        <dl class="xiangqing">
+          <dd>高层环线位置：二至三环</dd>
+          <dd>项目特色：花园洋房,景观居所,教育地产</dd>
+          <dd>建筑类别：暂无资料</dd>
+          <dd>是否可分割：否</dd>
+          <dd>空　　调：无</dd>
+          <dd>装修状况：毛坯</dd>
+          <dd>占地面积：60000.00平方米</dd>
+          <dd>标准层面积：暂无资料</dd>
+          <dd>开间面积：0.00平方米</dd>
+          <dd>开 发 商：沈阳浑南置业泰莱房产开发有限公司</dd>
+          <dt>公交：暂无资料</dt>
+          <dt>地铁：<span title="地铁2号线">地铁2号线</span></dt>
+        </dl>
+      </div>
+    </div>
+    <div class="lpbr">
+      <!--focus--><div class="shipin borderb01"><div class="shipin01" id="li013">
+		<a href="http://tailai16qu.fang.com/shop/photo/list_902_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_06/28/shenyang/1277713481378_000/286x214.jpg" alt="泰莱16区外景图" width="286" height="214" border="0" /></a>
+	</div>
+<div class="shipin01 noneBox" id="li010">
+		<a href="http://tailai16qu.fang.com/shop/photo/list_901_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_06/28/shenyang/1277713509630_000/286x214.jpg" alt="泰莱16区交通图" width="286" height="214" border="0" /></a>
+	  
+</div>
+<div class="shipin01 noneBox" id="li011">
+		<a href="http://tailai16qu.fang.com/shop/photo/list_903_1617672549.htm" target="_blank"><img src="http://imgs.soufun.com/viewimage/house/2014_12/30/shenyang/1419925584546_000/286x214.jpg" alt="泰莱16区实景图" width="286" height="214" border="0" /></a>
+	  
+</div>
+<div class="shipin01 noneBox"  id="li012">
+		<a href="http://tailai16qu.fang.com/shop/photo/list_900_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_12/22/shenyang/1293003119706_000/286x214.jpg" alt="泰莱16区平面图" width="286" height="214" border="0" /></a>
+	</div> 
+<div class="shipin02">
+	<div class="shipin00">
+				<div class="shipin030" onmouseover="show_menu(13)" id="f013"><a href="http://tailai16qu.fang.com/shop/photo/list_902_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_06/28/shenyang/1277713481378_000/68x51.jpg" width="68" height="51"></a><span class="upjt"></span></div>
+		<div class="shipin04"><a href="http://tailai16qu.fang.com/shop/photo/list_902_1617672549.htm" target="_blank">外景图</a></div>
+			
+	</div>
+	<div class="shipin00">
+				<div class="shipin03" onmouseover="show_menu(10)" id="f010"><a href="http://tailai16qu.fang.com/shop/photo/list_901_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_06/28/shenyang/1277713509630_000/68x51.jpg" width="68" height="51"></a><span class="upjt"></span></div>
+		<div class="shipin04"><a href="http://tailai16qu.fang.com/shop/photo/list_901_1617672549.htm" target="_blank">交通图</a></div>
+			</div>
+	<div class="shipin00">
+				<div class="shipin03" onmouseover="show_menu(11)" id="f011"><a href="http://tailai16qu.fang.com/shop/photo/list_903_1617672549.htm" target="_blank"><img src="http://imgs.soufun.com/viewimage/house/2014_12/30/shenyang/1419925584546_000/68x51.jpg" width="68" height="51"></a><span class="upjt"></span></div>
+		<div class="shipin04"><a href="http://tailai16qu.fang.com/shop/photo/list_903_1617672549.htm" target="_blank">实景图</a></div>
+			</div>
+	<div class="shipin00">
+				<div class="shipin03" onmouseover="show_menu(12)" id="f012"><a href="http://tailai16qu.fang.com/shop/photo/list_900_1617672549.htm" target="_blank"><img src="http://img.soufun.com/viewimage/house/2010_12/22/shenyang/1293003119706_000/68x51.jpg" width="68" height="51"></a><span class="upjt"></span></div>
+		<div class="shipin04"><a href="http://tailai16qu.fang.com/shop/photo/list_900_1617672549.htm" target="_blank">平面图</a></div>
+			</div>	
+</div>
+<!--效果图 end--></div><!--focus end-->
+      <!--wenda-->
+	        <div class="wenda borderb01 mt10" style="height:205px;">
+        <dl class="title03"><dt class="name">搜房问答</dt><dd class="more"><a href="http://www.fang.com/ask/41/a_41_1____-1.html" target="_blank">更多&gt;&gt;</a></dd></dl>
+        <div class="lpbrcontent">
+		<form id="frm_search" method="get" style="margin:0; padding:0;" action="http://www.fang.com/ask/search.aspx" target="_blank">
+          <div class="search_input">
+            <div class="inp1">
+              <input type="text" name='asktitle' id="asktitle"  value=""/>
+              <div class="inp2"></div>
+            </div>
+            <span>
+            <input type="submit"  id="Button1" onclick="javascript:search_ask();"  value="" class="button1">
+            </span> 
+			<span>
+            <input type="button" id="Button2" onclick="window.open('http://www.fang.com/ask/Ask_StepTwo.aspx?asktitle=%CC%A9%C0%B316%C7%F8&newcode=1617672549')"  value="" class="button2">
+            </span> 
+		  </div>
+		  </form>
+          <div class="clear"></div>
+          <ul>
+		  				            <li><a href="http://www.fang.com/ask/ask_4221457.html" title="想在泰莱16区租套房子,一个月房租大概是多少,单间就行" target="_blank">想在泰莱16区租套房子,一个月房租大概是多少</a></li>
+			             			            <li><a href="http://www.fang.com/ask/ask_3969289.html" title="泰莱16区坐车方便吗" target="_blank">泰莱16区坐车方便吗</a></li>
+			             			            <li><a href="http://www.fang.com/ask/ask_3555914.html" title="沈阳泰莱16区按揭能几折？" target="_blank">沈阳泰莱16区按揭能几折？</a></li>
+			             			            <li><a href="http://www.fang.com/ask/ask_3553820.html" title="沈阳泰莱16区周边有哪些小学？" target="_blank">沈阳泰莱16区周边有哪些小学？</a></li>
+			             			            <li><a href="http://www.fang.com/ask/ask_3506314.html" title="沈阳泰莱16区附近有哪些银行？" target="_blank">沈阳泰莱16区附近有哪些银行？</a></li>
+			             			                       </ul>
+        </div>
+      </div>
+	        <!--wenda end-->
+      <!--楼盘管家-->
+	        <div class="xzhushou borderb01 mt10">
+        <dl class="title03">
+          <dt class="name">楼盘管家</dt>
+        </dl>
+        <dl class="experts">
+			  <dd>
+			  <p>我很了解这个楼盘的信息，</p><p>愿意为这个楼盘的建设贡献力量。</p>
+			  </dd>
+			  <dd><a href="http://agent0.soufun.com/magent/ProjExperts/ApplyProjExperts.aspx?newcode=1617672549&purpose=%C9%CC%C6%CC" target="_blank"><img src="http://img1.soufun.com/house/detail_php/img_detail/btn_sqlpgj.gif" /></a></dd>
+			  <dd>客服：<span class="orange">400-630-6888</span></dd>
+		</dl>
+      </div>
+	        <!--楼盘管家 end-->
+    </div>
+  </div>
+  <!--jingxuanfangyuan star-->
+      <!--jingxuanfangyuan end-->
+  <!--newfylist star-->
+    <!--newfylist end-->
+  <!--photo star-->
+  <div class="newfylist borderb01 mt10">
+  	<dl class="title02">
+        <dt class="name">楼盘图库</dt>
+        <dd class="more">平面图(<a href="http://tailai16qu.fang.com/shop/photo/list_900_1617672549.htm" target="_blank" title="泰莱16区平面图" class="org">2</a>) 交通图(<a href="http://tailai16qu.fang.com/shop/photo/list_901_1617672549.htm" target="_blank" title="泰莱16区交通图" class="org">1</a>) 外景图(<a href="http://tailai16qu.fang.com/shop/photo/list_902_1617672549.htm" target="_blank" title="泰莱16区外景图" class="org">1</a>) 实景图(<a href="http://tailai16qu.fang.com/shop/photo/list_903_1617672549.htm" target="_blank" title="泰莱16区实景图" class="org">6</a>) 效果图(<a href="http://tailai16qu.fang.com/shop/photo/list_904_1617672549.htm" target="_blank" title="泰莱16区效果图" class="org">3</a>) 配套图(<a href="http://tailai16qu.fang.com/shop/photo/list_907_1617672549.htm" target="_blank" title="泰莱16区配套图" class="org">4</a>) 　<a href="http://tailai16qu.fang.com/shop/photo/1617672549.htm" target="_blank">更多>></a></dd>
+    </dl>
+    <ul class="photocontbox">
+		
+		      <li>
+        <div class="img"> <span class="edge"></span><span class="container"><a href="http://tailai16qu.fang.com/shop/photo/d_other_90006106.htm" target="_blank"><img width="160" height="120" alt="泰莱16区周边街道 " src="http://img.soufun.com/viewimage/house/2010_11/18/shenyang/1290061607976_000/160x120.jpg" border="0"/></a></span> </div>
+        <div class="p2"><a title="泰莱16区周边街道 " href="http://tailai16qu.fang.com/shop/photo/d_other_90006106.htm" target="_blank">泰莱16区周边街道</a>
+		</div>
+      </li>
+	  		      <li>
+        <div class="img"> <span class="edge"></span><span class="container"><a href="http://tailai16qu.fang.com/shop/photo/d_other_90005977.htm" target="_blank"><img width="160" height="120" alt="泰莱16区工程进度(2010-8-30) " src="http://img.soufun.com/viewimage/house/2010_11/18/shenyang/1290061510108_000/160x120.jpg" border="0"/></a></span> </div>
+        <div class="p2"><a title="泰莱16区工程进度(2010-8-30) " href="http://tailai16qu.fang.com/shop/photo/d_other_90005977.htm" target="_blank">泰莱16区工程进度(2010-8-30)</a>
+		</div>
+      </li>
+	  		      <li>
+        <div class="img"> <span class="edge"></span><span class="container"><a href="http://tailai16qu.fang.com/shop/photo/d_other_154604810.htm" target="_blank"><img width="160" height="120" alt="泰莱16区沿街商铺（2014-07-14） " src="http://imgs.soufun.com/viewimage/house/2014_12/30/shenyang/1419925585343_000/160x120.jpg" border="0"/></a></span> </div>
+        <div class="p2"><a title="泰莱16区沿街商铺（2014-07-14） " href="http://tailai16qu.fang.com/shop/photo/d_other_154604810.htm" target="_blank">泰莱16区沿街商铺（2014-07-14）</a>
+		</div>
+      </li>
+	  		      <li>
+        <div class="img"> <span class="edge"></span><span class="container"><a href="http://tailai16qu.fang.com/shop/photo/d_other_154604809.htm" target="_blank"><img width="160" height="120" alt="泰莱16区沿街商铺（2014-07-14） " src="http://imgs.soufun.com/viewimage/house/2014_12/30/shenyang/1419925584546_000/160x120.jpg" border="0"/></a></span> </div>
+        <div class="p2"><a title="泰莱16区沿街商铺（2014-07-14） " href="http://tailai16qu.fang.com/shop/photo/d_other_154604809.htm" target="_blank">泰莱16区沿街商铺（2014-07-14）</a>
+		</div>
+      </li>
+	  		      <li>
+        <div class="img"> <span class="edge"></span><span class="container"><a href="http://tailai16qu.fang.com/shop/photo/d_house_91685215.htm" target="_blank"><img width="160" height="120" alt="泰莱16区5#A户型 " src="http://img.soufun.com/viewimage/house/2010_12/22/shenyang/1293003120598_000/160x120.jpg" border="0"/></a></span> </div>
+        <div class="p2"><a title="泰莱16区5#A户型 " href="http://tailai16qu.fang.com/shop/photo/d_house_91685215.htm" target="_blank">泰莱16区5#A户型</a>
+		</div>
+      </li>
+	  	    </ul>
+  </div>
+  <!--photo end-->
+  <div class="wrap mt10">
+    <div class="lpbl">
+    	<div class="blmap borderb01">
+        	<dl class="title02">
+            	<dt class="name">地图交通</dt>
+            </dl>
+            <div class="blmapbox" id="map"><iframe id="" src="http://esf.sy.fang.com/newsecond/map/newhouse/ShequMap.aspx?newcode=1617672549" width="640px" height="310px"  marginwidth="0" marginheight="0" frameborder="0" scrolling="no" hspace="0" vspace="0"></iframe>              
+            </div>
+            <div class="jiaotong">
+            	<p><strong>公交：</strong>暂无资料</p>
+                <p><strong>地铁：</strong><span title="地铁2号线">地铁2号线</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="lpbr">
+      <div class="brzb borderb01">
+        <dl class="title03"><dt class="name">周边商铺出租</dt><!--<dd class="more"><a href="#" target="_blank">更多>></a></dd>--></dl>
+        <ul class="brzbox">
+						        	<li><span class="biaot"><a title="荣盛紫提东郡" target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762955.htm">荣盛紫提东郡</a></span>
+			<span class="zut"><a href="http://shop.sy.fang.com/loupan/zu/house-xm1617762955/" target="_blank" class="org">1</a>套在租</span>
+			<span class="shout"><a href="http://shop.sy.fang.com/loupan/shou/house-xm1617762955/" target="_blank" class="org">2</a>套在售</span>
+			</li>
+									        	<li><span class="biaot"><a title="金地檀溪门市" target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762951.htm">金地檀溪门市</a></span>
+			<span class="zut"><a href="http://shop.sy.fang.com/loupan/zu/house-xm1617762951/" target="_blank" class="org">0</a>套在租</span>
+			<span class="shout"><a href="http://shop.sy.fang.com/loupan/shou/house-xm1617762951/" target="_blank" class="org">1</a>套在售</span>
+			</li>
+						        </ul>
+      </div>
+      <div class="brzb borderb01 mt10">
+        <dl class="title03"><dt class="name">周边商铺出售</dt></dl>
+        <ul class="brzbox">
+								
+        	<li><span class="biaot"><a title="荣盛紫提东郡" target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762955.htm">荣盛紫提东郡</a></span>
+			<span class="zut"><a href="http://shop.sy.fang.com/loupan/zu/house-xm1617762955/" target="_blank" class="org">1</a>套在租</span>
+			<span class="shout"><a href="http://shop.sy.fang.com/loupan/shou/house-xm1617762955/" target="_blank" class="org">2</a>套在售</span>
+			</li>
+											
+        	<li><span class="biaot"><a title="金地檀溪门市" target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762951.htm">金地檀溪门市</a></span>
+			<span class="zut"><a href="http://shop.sy.fang.com/loupan/zu/house-xm1617762951/" target="_blank" class="org">0</a>套在租</span>
+			<span class="shout"><a href="http://shop.sy.fang.com/loupan/shou/house-xm1617762951/" target="_blank" class="org">1</a>套在售</span>
+			</li>
+									<div class="clear"></div>
+        </ul><div class="clear"></div>
+      </div><div class="clear"></div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <div class="paiming">
+    <ul>
+	<li><span class="left">相关信息：</span><span class="right"> <a href="http://tailai16qu.fang.com/shop/xiangqing/"> 泰莱16区楼盘详情</a> <a href="http://tailai16qu.fang.com/shop/photo/1617672549.htm"> 泰莱16区楼盘相册</a> <a href="http://shop.sy.fang.com/loupan/zu/house-xm1617672549/"> 泰莱16区出租房源</a> <a href="http://shop.sy.fang.com/loupan/shou/house-xm1617672549/"> 泰莱16区出售房源</a> </span></li>
+	<li><span class="left">同商圈商铺：</span><span class="right"> <a target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762955.htm" title="荣盛紫提东郡">荣盛紫提东郡</a> <a target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617762951.htm" title="金地檀溪门市">金地檀溪门市</a> <a target="_blank" href="http://shop.sy.fang.com/house/%C9%F2%D1%F4_1617718701.htm" title="文华街三号院">文华街三号院</a> </span></li>	<li><span class="left">周边商铺：</span><span class="right"> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b05984/" title="桃仙地区商铺">桃仙地区商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b05985/" title="望花地区商铺">望花地区商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b06180/" title="理工大学商铺">理工大学商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b011965/" title="东湖街道商铺">东湖街道商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b012155/" title="白塔堡商铺">白塔堡商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b013303/" title="二十一世纪大厦商铺">二十一世纪大厦商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b013797/" title="音乐学院南校区商铺">音乐学院南校区商铺</a> <a target="_blank" href="http://shop.sy.fang.com/loupan/house-a0886-b013798/" title="泛华广场商铺">泛华广场商铺</a> </span></li></ul>
+  </div>    
+</div>
+<div class="clear"></div>
+<!-- footer begin -->
+<!-- footer begin -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+
+<style type="text/css">
+.DivCss20091020WZiColor333 a:link{color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:visited{color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:hover{color:#f00;text-decoration:underline;}
+.DivCss20091020WZiColor333 a:active{color:#f00;}
+.DivCss20091020WZiColorf00 a:link{color:#f00;text-decoration:none;}
+.DivCss20091020WZiColorf00 a:visited{color:#f00;text-decoration:none;}
+.DivCss20091020WZiColorf00 a:hover{color:#f00;text-decoration:underline;}
+.DivCss20091020WZiColorf00 a:active{color:#f00;}
+</style>
+<script>
+var $s_=function(id) {
+   return document.getElementById(id);
+}
+function moreBoxto(numcss1020){
+	for (j=0; j<10; j++){
+	 if($s_('moreBox' + j)){
+	 $s_('moreBox'+j).style.display='none';
+
+	 }
+	}
+	$s_('moreBox'+numcss1020).style.display='block';
+}
+function hidden_moreBoxto(numcss1020) {
+	timeout = setTimeout(function() {$s_("moreBox"+numcss1020).style.display = "none";},100);
+}
+function show_moreBoxto(numcss1020){
+	window.clearTimeout(timeout);
+	$s_("moreBox"+numcss1020).style.display = "";
+}
+function AddFavorite() {
+    var title = document.title;
+    var url = document.location.href;
+    if (window.sidebar) window.sidebar.addPanel(title, url, "");
+    else if (window.opera && window.print) {
+        var mbm = document.createElement('a');
+        mbm.setAttribute('rel', 'sidebar');
+        mbm.setAttribute('href', url);
+        mbm.setAttribute('title', title);
+        mbm.click();
+    }
+    else if (document.all) window.external.addFavorite(url, title);
+}
+</script>
+
+</head>
+<!--20091020搜房网统一版尾-->
+<body style="padding:0;margin:0;">
+<div style="width:960px;height:180px;background:#fff;font-size:12px;font-family:'宋体';clear:both;margin:0 auto;border-top:1px solid #ccc;" class="DivCss20091020WZiColor333">
+	<div style="line-height:20px;text-align:center;margin-top:5px;">
+		<a href="http://www.fang.com/aboutus/index.asp"  target="_blank">关于搜房</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://www.fang.com/hezuo_file/house/index.html"  target="_blank">网站合作</a> <span style="font-family: Verdana;">‖</span> 
+		<a href="http://esf.fang.com/aboutus/contactus.html"  target="_blank">联系我们</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://www.fang.com/zhaopin" target="_blank"  >招聘信息</a> <span style="font-family: Verdana;">‖</span>
+		<a href="javascript:;" onMouseOut="hidden_moreBoxto(1020)" onMouseOver="moreBoxto(1020)">各地商铺</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://fang.com/sitemap.html" target="_blank">网站地图</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://www.fang.com/service/feedback/LeaveMess.aspx"  target="_blank">意见反馈</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://wap.fang.com/xc/mobile.html"  target="_blank">手机搜房</a>
+
+	</div>
+	<div style="display:none;font-family: Verdana; line-height: 20px; text-align: center;">搜房商铺网：楼盘大全 
+    <a target="_blank" href="/housing/letter_A.htm">A</a>
+    <a target="_blank" href="/housing/letter_B.htm">B</a>
+    <a target="_blank" href="/housing/letter_C.htm">C</a>
+    <a target="_blank" href="/housing/letter_D.htm">D</a>
+    <a target="_blank" href="/housing/letter_E.htm">E</a>
+
+    <a target="_blank" href="/housing/letter_F.htm">F</a>
+    <a target="_blank" href="/housing/letter_G.htm">G</a>
+    <a target="_blank" href="/housing/letter_H.htm">H</a>
+    <a target="_blank" href="/housing/letter_I.htm">I</a>
+    <a target="_blank" href="/housing/letter_J.htm">J</a>
+    <a target="_blank" href="/housing/letter_K.htm">K</a>
+
+    <a target="_blank" href="/housing/letter_L.htm">L</a>
+    <a target="_blank" href="/housing/letter_M.htm">M</a>
+    <a target="_blank" href="/housing/letter_N.htm">N</a>
+    <a target="_blank" href="/housing/letter_O.htm">O</a>
+    <a target="_blank" href="/housing/letter_P.htm">P</a>
+    <a target="_blank" href="/housing/letter_Q.htm">Q</a>
+
+    <a target="_blank" href="/housing/letter_R.htm">R</a>
+    <a target="_blank" href="/housing/letter_S.htm">S</a>
+    <a target="_blank" href="/housing/letter_T.htm">T</a>
+    <a target="_blank" href="/housing/letter_U.htm">U</a>
+    <a target="_blank" href="/housing/letter_V.htm">V</a>
+    <a target="_blank" href="/housing/letter_W.htm">W</a>
+
+    <a target="_blank" href="/housing/letter_X.htm">X</a>
+    <a target="_blank" href="/housing/letter_Y.htm">Y</a>
+    <a target="_blank" href="/housing/letter_Z.htm">Z</a>&nbsp;&nbsp;
+    
+     
+    </div>
+	<!--弹出城市 begin-->
+	<div style="position:relative;width:1px;height:1px;">
+		<div onMouseOut="hidden_moreBoxto(1020)" onMouseOver="show_moreBoxto(1020);" id="moreBox1020" style="display:none;position:absolute;top:-15px;right:10px!important;left:450px;width:480px;height:153px;background:#f0f0f0;border:1px solid #999;padding:10px 10px 0 10px;line-height:21px;font-size:12px;">
+
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="DivCss20091020WZiColor333">
+			  <tr>
+				<td width="3%"><strong style="color:#f00;">B</strong></td>
+				<td width="18%"><a href="http://shop.fang.com/" target="_blank">北京商铺</a></td>
+				<td width="3%"><strong style="color:#f00;">D</strong></td>
+				<td width="18%"><a href="http://shop.dg.fang.com/" target="_blank">东莞商铺</a></td>
+				<td width="3%">&nbsp;</td>
+
+				<td width="17%"><a href="http://shop.hn.fang.com/" target="_blank">海南商铺</a></td>
+				<td width="3%">&nbsp;</td>
+				<td width="19%"><a href="http://shop.nn.soufun.com/" target="_blank">南宁商铺</a></td>
+				<td width="3%">&nbsp;</td>
+				<td width="13%"><a href="http://shop.sy.fang.com/" target="_blank">沈阳商铺</a></td>
+			  </tr>
+			  <tr>
+
+				<td><strong style="color:#f00;">C</strong></td>
+				<td><a href="http://shop.cd.fang.com/" target="_blank">成都商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.dl.fang.com/" target="_blank">大连商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.hf.fang.com/" target="_blank">合肥商铺</a></td>
+				<td><strong style="color:#f00;">Q</strong></td>
+
+				<td><a href="http://shop.qd.fang.com/" target="_blank">青岛商铺</a></td>
+				<td><strong style="color:#f00;">T</strong></td>
+				<td><a href="http://shop.tj.fang.com/" target="_blank">天津商铺</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.cq.fang.com/" target="_blank">重庆商铺</a></td>
+
+				<td><strong style="color:#f00;">F</strong></td>
+				<td><a href="http://shop.fz.fang.com/" target="_blank">福州商铺</a></td>
+				<td><strong style="color:#f00;">J</strong></td>
+				<td><a href="http://shop.jn.fang.com/" target="_blank">济南商铺</a></td>
+				<td><strong style="color:#f00;">S</strong></td>
+				<td><a href="http://shop.sh.fang.com/" target="_blank">上海商铺</a></td>
+
+				<td><strong style="color:#f00;">W</strong></td>
+				<td><a href="http://shop.wuhan.fang.com/" target="_blank">武汉商铺</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.cs.fang.com/" target="_blank">长沙商铺</a></td>
+				<td><strong style="color:#f00;">G</strong></td>
+
+				<td><a href="http://shop.gz.fang.com/" target="_blank">广州商铺</a></td>
+				<td><strong style="color:#f00;">N</strong></td>
+				<td><a href="http://shop.nanjing.fang.com/" target="_blank">南京商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.sz.fang.com/" target="_blank">深圳商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.wuxi.fang.com/" target="_blank">无锡商铺</a></td>
+
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.changchun.fang.com/" target="_blank">长春商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.gy.fang.com/" target="_blank">贵阳商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.nc.fang.com/" target="_blank">南昌商铺</a></td>
+
+				<td>&nbsp;</td>
+				<td><a href="http://shop.suzhou.fang.com/" target="_blank">苏州商铺</a></td>
+				<td><strong style="color:#f00;">X</strong></td>
+				<td><a href="http://shop.xian.fang.com/" target="_blank">西安商铺</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+
+				<td><a href="http://shop.cz.fang.com/" target="_blank">常州商铺</a></td>
+				<td><strong style="color:#f00;">H</strong></td>
+				<td><a href="http://shop.hz.fang.com/" target="_blank">杭州商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.nb.fang.com/" target="_blank">宁波商铺</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://shop.sjz.fang.com/" target="_blank">石家庄商铺</a></td>
+
+				<td><strong style="color:#f00;">Z</strong></td>
+				<td><a href="http://shop.zz.fang.com/" target="_blank">郑州商铺</a></td>
+			  </tr>
+			</table>
+			<div style="text-align:right;display:none" class="DivCss20091020WZiColorf00"><a href="http://shop.fang.com/cities.aspx" target="_blank">进入搜房商铺&gt;&gt;</a></div>
+		</div>
+	</div>
+
+	<!--弹出城市 end-->
+	<div style="font-family:Verdana;line-height:20px;text-align:center;">Copyright &copy; 2015 Soufun Holdings Limited, All Rights Reserved</div>
+	<div style="line-height:23px;text-align:center;">搜房公司-<a href="http://shop.sy.fang.com/" target="_blank"><strong>沈阳商铺</strong></a>网 版权所有</div>
+	<div style="line-height:20px;text-align:center;"><a  href="http://www.fang.com/icp.htm" target="_blank">京<span style="font-family:Verdana;">ICP</span>证<span style="font-family:Verdana;">060732</span>号</a> <a  href="http://www.fang.com/shiting.htm" target="_blank">信息网络传播视听节目许可证<span style="font-family:Verdana;">0108274</span>号</a> <a  href="http://www.fang.com/jiemu.htm" target="_blank">广播电视节目制作经营许可证（京）字第<span style="font-family:Verdana;">647</span>号</a></div>
+
+	<div style="line-height:20px;text-align:center;">文明办网文明上网 举报电话：<span style="font-family:Verdana;">010-56318764</span> 举报邮箱：<a  href="mailto:jubao@soufun.com" style="font-family:Verdana;">jubao@soufun.com</a></div>
+	<div style="margin-top:5px;text-align:center;"><a  href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000110800002" target="_blank"><img src="http://img2.soufun.com/homepage/images/beian.gif" style="border:0;" /></a> <a  href="http://www.bj.cyberpolice.cn/index.htm" target="_blank"><img src="http://img2.soufun.com/homepage/images/baojing.gif" style="border:0;" /></a></div>
+</div>
+</body>
+</html>
+<script type="text/javascript" src="http://support.fang.com/resource/script/QianTai/support.dialogbox.js"></script><!--20091020搜房网统一版尾-->
+<!--20091020搜房网统一版尾-->
+<img height="1" src="http://click1n.soufun.com/newhouse_click_1617672549.gif" width="1">
+</body>
+</html>
