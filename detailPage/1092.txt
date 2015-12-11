@@ -1,0 +1,1026 @@
+			
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>【沈阳大禹兰庭花园小区,二手房,租房】- 沈阳搜房网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="Keywords" content="大禹兰庭花园小区,沈阳大禹兰庭花园论坛,大禹兰庭花园租房,大禹兰庭花园二手房" />
+<meta name="Description" content="大禹兰庭花园小区网是为沈阳大禹兰庭花园小区居民服务的网站,主要提供大禹兰庭花园论坛、大禹兰庭花园二手房、大禹兰庭花园租房、大禹兰庭花园家居装修、大禹兰庭花园二手交易、大禹兰庭花园便民服务、大禹兰庭花园周边商户、小区活动、小区相册等栏目." />
+<meta name="mobile-agent" content="format=html5;url=http://m.fang.com/xiaoqu/sy/1617158423.html">
+<link href="http://js.soufunimg.com/newhouse/style/shequ/plotIndex_20150326.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/jquery-1.4.4.min.js"></script>
+<script>
+	tjlink = "";
+	newcode = "1617158423";
+	citycode = "";
+	vcity = "%C9%F2%D1%F4";
+	onlineuserlist = "";
+	logined = "";
+</script>
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/shequ/shequ_index.js?v=8888"></script>
+</head>
+<body id="dingbu">
+	<!--xiaoqu 导航头 star-->
+		
+	<script type="text/javascript">
+		var _dctc = _dctc || {};
+		_dctc._account = _dctc._account || ['UA-24140496-1','UA-24831230-1','UA-24831230-29'];
+		_dctc.isNorth = _dctc.isNorth || 'N';
+		_dctc.bid = '600029';
+		(function () {
+			var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+			script.src = 'http://js.soufunimg.com/count/load.min.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+		})();
+	</script>
+	
+<link href="http://js.soufunimg.com/newhouse/style/shequ/head_201503.css" rel="stylesheet" type="text/css" />
+<div class="topNavBox_sq">
+	<div class="topNav_sq">
+		<ul class="list_sq">
+			<li>
+				<a class="nTitle" id="xqw_B01_01" href="http://www.fang.com" target="_blank">首页</a>
+			</li>
+			<li><span class="Sline">|</span></li>
+			<li>
+				<a id="xqw_B01_02" class="nTitle" href="http://news.sy.fang.com/" target="_blank">资讯</a>
+			</li>
+			<li><span class="Sline">|</span></li>
+			<li>
+				<a id="xqw_B01_03" class="nTitle" target="_blank" href="http://newhouse.sy.fang.com">新房</a>
+				<a id="xqw_B01_04" class="nTitle" target="_blank" href="http://esf.sy.fang.com/">二手房</a>
+				<a id="xqw_B01_05" class="nTitle" target="_blank" href="http://zu.sy.fang.com/">租房</a>
+			</li>
+			<li><span class="Sline">|</span></li>
+			<li>
+				<a id="xqw_B01_06" class="nTitle" target="_blank" href="http://home.sy.fang.com/">装修家居</a>
+			</li>
+			<li><span class="Sline">|</span></li>
+			<li>
+				<a id="xqw_B01_07" class="nTitle" target="_blank" href="http://bbs.sy.fang.com">业主论坛</a>
+			</li>
+			<li><span class="Sline">|</span></li>
+			<li>
+				<a id="xqw_B01_08" class="nTitle" target="_blank" href="http://fdc.fang.com/data/">地产数据</a><span class="Sline">|</span>
+			</li>
+						<li>
+				<a class="nTitle" target="_blank" id="" href="http://client.3g.fang.com/http/wap/index.html">移动APP</a>
+			</li>
+		</ul>
+		<!--HEAD_LOGIN_BEGIN-->
+		<ul class="list_sq listright" id="topHeadLogin" style="display: none;">
+			<li><a class="nTitle" href="http://www.fang.com/space/Index.aspx" target="_blank" id="sfHeadUsername"></a></li>
+			<li><span class="Sline">|</span></li>
+			<li><a class="nTitle" href="#" id="sfHeadLogout">退出</a></li>
+			<li><span class="Sline">|</span></li>
+			<li><!--HEAD_XFB_LOGIN_BEGIN--><a class="nTitle" href="http://shequ.fang.com/bang/" title="新房帮登录" target="_blank">新房帮登录</a><!--HEAD_XFB_LOGIN_END--></li>
+		</ul>
+		<!--HEAD_LOGIN_END--> 
+		<!--HEAD_LOGOUT_BEGIN-->
+		<ul class="list_sq listright" id="topHeadNotLogin" style="display: block;">
+			<li><a class="nTitle" href="javascript:void(0)" onclick="showid('showlogindiv')">登录</a></li>
+			<li><span class="Sline">|</span></li>
+			<li><a class="nTitle" href="http://passport.fang.com/register.aspx?service=secondhouse&amp;host=newhouse.soufun.com&amp;backurl=http%3A%2F%2Fyuanyangshanshui.fang.com%2Fchushou%2F" target="_blank" id="sfHeadRegister">注册</a></li>
+			<li><span class="Sline">|</span></li>
+			<li><!--HEAD_XFB_LOGOUT_BEGIN--><a class="nTitle" href="http://shequ.fang.com/bang/" target="_blank"> 社区帮</a><!--HEAD_XFB_LOGOUT_END--></li>
+		</ul>
+		<!--HEAD_LOGOUT_END--> 
+    </div>
+</div>
+<div class="logoBox_sq">
+	<div class="logopic_sq">
+		<a id="xqw_B01_11" title="大禹兰庭花园小区网" href="http://dayulantinghuayuan.fang.com/"><img id="sqlogo" src="http://img.soufun.com/viewimage/house/2006_08/22/1156234500548/80x60c.jpeg" width="80" height="60" border="0"> </a>
+	</div>
+	<div class="ceninfo_sq">
+		<h1>
+			<a class="tt" id="xqw_B01_12" href="http://dayulantinghuayuan.fang.com/">大禹兰庭花园小区网</a>
+								</h1>
+		<p class="W_total_sq"><span class="org">25644</span> 次浏览&nbsp;&nbsp;[<a id="xqw_B01_15" href="http://dayulantinghuayuan.fang.com/bbs/soufun_forum/ownerforum/BBS_OwnerForum_AddressBookNew.aspx/sign=1617158423&Bid=-1" target="_blank">申请认证</a>] </p>
+	</div>
+	<div class="clear"></div>
+</div>
+<!--导行文件开始-->
+<div id="orginalNaviBox" class="navWp">
+	<ul class="wrap nav">
+						  																															<li class="first li-on"><a id="xqw_B01_17" href="http://dayulantinghuayuan.fang.com/" target="_self">小区首页</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_18" href="http://dayulantinghuayuan.fang.com/bbs/" target="_self">业主论坛</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_19" href="http://dayulantinghuayuan.fang.com/xiangqing/" target="_self">小区详情</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_20" href="http://dayulantinghuayuan.fang.com/photo/1617158423.htm" target="_self">小区相册</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_21" href="http://dayulantinghuayuan.fang.com/jiage/" target="_self">价格走势</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_22" href="http://dayulantinghuayuan.fang.com/chushou/" target="_self">二手房</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_23" href="http://dayulantinghuayuan.fang.com/chuzu/" target="_self">租房</a></li>
+					  				  																															<li class="first "><a id="xqw_B01_24" href="http://dayulantinghuayuan.fang.com/zhuangxiu/" target="_self">装修网店</a></li>
+					  			</ul> 
+</div>
+<!--导行文件结束--> 
+<!--小区头文件结束-->
+<!--HEAD_LOGINPOP_BEGIN-->
+<link href="http://js.soufunimg.com/newhouse/style/loginbox.css?v=001" rel="stylesheet" type="text/css" />
+<div id="showlogindiv" class="tc_box1 userdefinedbox jqmWindow jqmID4" style="width: 358px; z-index: 3000; display: none;">
+	<p class="tc_box1_title">
+    	<span class="tc_b1_t_left">请输入登录信息&nbsp;&nbsp;<span style="font-size:12px;font-weight:bold;color:#ff0000;" class="noneBox" id="loginerror"></span></span>
+    	<a class="tc_b1_t_right" onclick="hideid('showlogindiv')" title="关闭"></a>  
+    </p>
+    <ul class="tc_box1_comment">
+    	<li class="tc_b1_c_up">
+			<form id="login" method="post" action="/house/web/user_login.php" name="login">	
+				<dl>
+					<dt>用户名：</dt>
+					<dd><input type="text" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" value="手机号/邮箱/用户名" style="color:#686868" class="inp_frame1" name="username" id="strusername"></dd>
+				</dl>
+				<dl>
+					<dt><span class="inp_space">密</span>码：</dt>
+					<dd><input type="password" value="" class="inp_frame1" name="password" id="strpassword"></dd>
+				</dl>
+				<dl>
+					<dd>
+						<input type="hidden" name="backurl" id="shHeadBackurl" value="" />
+						<input type="button" value="登录" class="inp_btns_01" onclick="document.getElementById('login').submit();">
+						<span class="inp_word"><a class="inp_link" target="_blank" href="http://passport.fang.com/getpass.aspx">忘记密码</a>？</span>
+					</dd>
+					<dd></dd>
+				</dl>
+			</form>
+        </li>
+    	<li class="tc_b1_c_down">没有搜房通行证？<a class="inp_link" target="_blank" id="sfHeadRegister2" href="http://passport.fang.com/register.aspx">马上注册一个</a></li>
+    </ul>
+</div>
+<script src="http://js.soufunimg.com/newhouse/js/shequ/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/logindiv.js?v=004"></script>
+<script type="text/javascript" src="http://img.soufun.com/house/detail_new/js/Root.Xml.js"></script>
+<!--HEAD_LOGINJS_BEGIN-->
+<script language="javascript">
+var ajaxHost = "";
+var regservice = "newhouse";
+var reghost = "newhouse.soufun.com";
+</script>
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/newhouse_login.js?v=003"></script>
+<!--HEAD_LOGINJS_BEGIN-->
+<script type="text/javascript" src="http://js.soufunimg.com/newhouse/js/shequ/shequ_head.js"></script>	<!--xiaoqu 导航头 end-->
+	
+	<!--用户行为分析开始-->
+<script type="text/javascript" src="http://js.ub.fang.com/_ub.js?v=201407181100"></script>
+
+<script language="javascript">
+    _ub.city = '沈阳';
+    _ub.biz = 'e';
+    _ub.location = 0;
+	var b=0;
+	var p={'x2':'1617158423','x0':'%D3%DA%BA%E9^%D3%DA%BA%E9','x3':'5212^7212'};
+	if(b !=null && p != null)
+	{
+		_ub.collect(b,p);
+	}
+</script>
+
+<!--用户行为分析结束-->	
+	<!--xiaoqu 主体 start-->
+	<div class="wrap">
+	
+		<!--xiaoqu 通栏1 star-->
+		<div class="mt10"></div>
+		<!--xiaoqu 通栏1 end-->
+		
+		<!--xiaoqu main star-->
+		<div class="main mt10 clearfix">
+			<div class="mainleft">
+				
+				<!--xiaoqu gaikuang star-->
+				<div class="leftbox" id="xqw_B02_10">
+					<div class="itemTitle">
+						<span class="more"><a href="http://dayulantinghuayuan.fang.com/xiangqing/" target="_blank">查看小区详情>></a></span>
+						<h2><span class="htitle">大禹兰庭花园小区概况</span></h2>
+					</div>
+					<dl class="XQgaikuang">
+													<dt>
+								<strong class="pr15">本月均价</strong><span class="pred">6212元/㎡</span>，环比上月  <span class="pred">↑0.02%</span> ，同比去年  <span class="pgreen">↓3.19%</span> ，<a href="http://dayulantinghuayuan.fang.com/jiage/" class="pl15">查看房价走势&gt;&gt;</a>
+							</dt>
+																			<dt id="esfcount" style="width:100%;">
+																	<strong class="pr15">二<i class="y">y</i>手<i class="y">y</i>房</strong><a href="http://dayulantinghuayuan.fang.com/chushou/" target="_blank">51套</a>
+																									<strong class="pr15">出 租 房</strong><a href="http://dayulantinghuayuan.fang.com/chuzu/" target="_blank">3套</a>
+																																								    									    <strong class="pr15">所在区域</strong>于洪 白山路
+																								</dt>
+							
+							<script>$('#esfcount .pr15:gt(0)').addClass('pl30');</script>
+							
+												
+												 
+													<dd class="wid300">
+								<strong class="pr15">小区地址</strong><span title="于洪于洪区白山路120号">于洪于洪区白山路120号</span><a href="http://dayulantinghuayuan.fang.com/xiangqing/#xq_dlwz" class="pl15 iconAdress">地图>></a>
+							</dd>
+																															<dd class="wid200"><strong class="pr15">物<i class="y">y</i>业<i class="y">y</i>费</strong>0.80元/平米·月</dd>
+																			<dd class="wid300"><strong class="pr15">物业公司</strong>沈阳安邦物业公司</dd>
+																			<dd class="wid200"><strong class="pr15">建筑年代</strong>2006-01-01</dd> 
+																			<dd class="wid300"><strong class="pr15">开<i class="y">y</i>发<i class="y">y</i>商</strong>沈阳市大禹房屋开发有限公司</dd>
+																			<dt>
+								<strong class="pr15">楼层状况</strong>12栋6层多层，8栋11层小高层<a href="http://dayulantinghuayuan.fang.com/xiangqing/#lzxx" class="pl15">更多>></a>
+							</dt>
+																			<dt><strong class="pr15 floatl">停<i class="y">y</i>车<i class="y">y</i>位</strong><p class="floatl">200个地上车位</p></dt>
+																			<dt><strong class="pr15 floatl">交通状况</strong>
+								<p class="floatl" >260、155、136、268 </p>
+							</dt>
+																		<dt>
+							<strong class="pr15 floatl">项目简介</strong>
+							<p class="floatl" >大禹兰庭花园位于白山路120、122号。项目占地面积近40000平方米，建筑面积近80000平方米。项目由高层复式住宅、多层住宅两部分组成，有39-138平方米十余种户型。项目以传统美学思想为依...<a href="http://dayulantinghuayuan.fang.com/xiangqing/#xqjj" class="pl15">更多>></a></p>
+						</dt>
+											</dl>
+					<script>ddProcess();</script>
+				</div>
+				<!--xiaoqu gaikuang end-->
+				
+				<!--搜房网店20131217 star-->
+								<!--搜房网店20131217 end-->
+				
+												<iframe id="xqw_B02_24" width="860" scrolling="no" height="220" frameborder="0" marginheight="0" marginwidth="0" src="http://interface.mall.fang.com/Interface/Project/InterestHouse2015.aspx?city=%C9%F2%D1%F4&newcode=1617158423" hspace="0" vspace="0"></iframe>
+								<!--zhoubianpeitao star-->
+				<div class="leftbox" id="xqw_B02_12">
+					<div class="itemTitle"><h2><span class="htitle">周边配套</span></h2></div>
+					<div class="ZBpeitao">
+											<p class="txt" style="margin-bottom:10px;line-height:24px">
+													幼儿园：蓝天艺术教育幼儿园&#8206;<br>							中小学：塔湾小学&#8206;												<a href="http://dayulantinghuayuan.fang.com/xiangqing/#zbxx">更多&gt;&gt;</a>
+						</p>
+										</div>
+				</div>
+				<!--zhoubianpeitao end-->
+				
+				<div class="clear"></div>
+				
+				<!--wenda star-->
+				<div class="leftbox" id="xqw_B02_17">
+					<div class="itemTitle">
+						<span class="more"><a href="http://www.fang.com/ask/search.aspx?city=1" target="_blank">查看所有问答&gt;&gt;</a></span>
+						<h2><span class="htitle">问答</span></h2>
+					</div>
+					<div class="wenda">
+						<form id="frm_search" target="_blank" method="post" style="margin:0; padding:0;" action="http://www.fang.com/ask/search.aspx?city=1">
+							<dl class="search">
+								<dt><input value="" name="asktitle" id="asktitle" type="text" class="input"></dt>
+								<dd class="pl15">
+									<input type="submit" name="btn" value="搜索答案" onclick="javascript:search_ask();" class="btn_ssda"/>
+								</dd>			
+								<dd class="pl15">
+									<input type="button" name="btn" value="我要提问" onclick="window.open('http://www.fang.com/ask/Ask_StepTwo.aspx?asktitle=%B4%F3%D3%ED%C0%BC%CD%A5%BB%A8%D4%B0&newcode=1617158423')" class="btn"/>
+								</dd>
+							</dl>
+						</form>
+						<div class="clear"></div>
+						<ul>
+															<li>
+									<span class="txt">
+																				<a href="http://www.fang.com/ask/ask_11082156.html" target="_blank" class="gray6">白山路大禹兰庭花园小区二手房价格现在怎样</a>
+										<span class="gray9 pl10">(<a href="http://www.fang.com/ask/ask_11082156.html" target="_blank" class="org">1</a>回复)</span>
+									</span>
+									<span class="name">tsdcsxcl</span>
+									<span class="time">2015-07-07</span>
+								</li>
+															<li>
+									<span class="txt">
+																				<a href="http://www.fang.com/ask/ask_10531037.html" target="_blank" class="gray6">沈阳大禹兰庭花园到五爱市场坐地铁怎么坐</a>
+										<span class="gray9 pl10">(<a href="http://www.fang.com/ask/ask_10531037.html" target="_blank" class="org">0</a>回复)</span>
+									</span>
+									<span class="name">吃完抹嘴</span>
+									<span class="time">2015-05-29</span>
+								</li>
+															<li>
+									<span class="txt">
+										<img src="http://img1.soufun.com/house/detail_php/goldcoin.png">										<a href="http://www.fang.com/ask/ask_12172602.html" target="_blank" class="gray6">央行再次降息降准，我之前的贷款，下个月就</a>
+										<span class="gray9 pl10">(<a href="http://www.fang.com/ask/ask_12172602.html" target="_blank" class="org">14</a>回复)</span>
+									</span>
+									<span class="name">阿赖晒zzh</span>
+									<span class="time">2015-10-23</span>
+								</li>
+															<li>
+									<span class="txt">
+										<img src="http://img1.soufun.com/house/detail_php/goldcoin.png">										<a href="http://www.fang.com/ask/ask_12172601.html" target="_blank" class="gray6">央行降息房贷利率再创新低，我想请问一下，</a>
+										<span class="gray9 pl10">(<a href="http://www.fang.com/ask/ask_12172601.html" target="_blank" class="org">19</a>回复)</span>
+									</span>
+									<span class="name">阿赖晒zzh</span>
+									<span class="time">2015-10-23</span>
+								</li>
+													</ul>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<!--wenda end-->
+				
+				<!--dongtai star-->
+								<div class="leftbox" id="xqw_B02_18">
+					<div class="itemTitle"><span class="more"><a target="_blank" href="http://dayulantinghuayuan.fang.com/bbs/">更多&gt;&gt;</a></span><h2><span class="htitle">大禹兰庭花园业主论坛</span></h2></div>
+					<ul class="newslist">
+													<li><span class="txt"><a href="http://yihaimingdu.fang.com/bbs/1617665591~-1/174021090_174021090.htm" title="直播：亿海阳光不给下房证 业主集体维权特警出动" target="_blank" class="gray6">直播：亿海阳光不给下房证 业主集体维权特警出动</a><span class="gray9 pl10">(<a href="http://yihaimingdu.fang.com/bbs/1617665591~-1/174021090_174021090.htm" target="_blank" class="org">11536</a>点击)</span></span><span class="name">红红的小美</span><span class="time">2015-10-22</span></li>
+													<li><span class="txt"><a href="http://dayulantinghuayuan.fang.com/bbs/1617158423~-1/182661996_182661996.htm" title="最近的照片" target="_blank" class="gray6">最近的照片</a><span class="gray9 pl10">(<a href="http://dayulantinghuayuan.fang.com/bbs/1617158423~-1/182661996_182661996.htm" target="_blank" class="org">7738</a>点击)</span></span><span class="name">sdcjw</span><span class="time">2006-10-09</span></li>
+													<li><span class="txt"><a href="http://bbs.sy.fang.com/maifangquan~-1/183887747_183887747.htm" title="沈阳市物价局发布《通知》，沈阳采暖费价格下调2元。" target="_blank" class="gray6">沈阳市物价局发布《通知》，沈阳采暖费价格下调2元。</a><span class="gray9 pl10">(<a href="http://bbs.sy.fang.com/maifangquan~-1/183887747_183887747.htm" target="_blank" class="org">5077</a>点击)</span></span><span class="name">论坛小小小小编</span><span class="time">2015-10-23</span></li>
+													<li><span class="txt"><a href="http://bbs.sy.fang.com/maifangquan~-1/183887742_183887742.htm" title="【①周见姐】第九期 红包成精了 搜房&小石城's小红人攻占大沈阳" target="_blank" class="gray6">【①周见姐】第九期 红包成精了 搜房&小石城's小红人攻占大沈阳</a><span class="gray9 pl10">(<a href="http://bbs.sy.fang.com/maifangquan~-1/183887742_183887742.htm" target="_blank" class="org">4287</a>点击)</span></span><span class="name">一周见姐</span><span class="time">2015-10-23</span></li>
+													<li><span class="txt"><a href="http://tangningonelh.fang.com/bbs/1617741913~-1/181965722_181965722.htm" title="买长白龙湖唐宁one，多少人看的是品牌和学区" target="_blank" class="gray6">买长白龙湖唐宁one，多少人看的是品牌和学区</a><span class="gray9 pl10">(<a href="http://tangningonelh.fang.com/bbs/1617741913~-1/181965722_181965722.htm" target="_blank" class="org">3857</a>点击)</span></span><span class="name">橙子的心</span><span class="time">2015-10-23</span></li>
+											</ul>
+				</div>
+								<!--dongtai end-->
+			</div>
+			<div class="mainright">
+				<!--focus-->
+				<div id="xqw_B02_19"><!--focus begin-->
+												<script src="http://js.soufunimg.com/newhouse/js/shequ/jdtJs.js"></script>
+      <div class="jdt">
+        <div id="focus">
+          <ul>
+            <li>
+		<a target="_blank" href="http://dayulantinghuayuan.fang.com/photo/list_902_1617158423.htm"><img title="大禹兰庭花园外景图" alt="大禹兰庭花园外景图" name="imgInit" src="http://imgs.soufun.com/viewimage/house/2014_10/24/shenyang/1414139183922_000/290x220.jpg" style="FILTER: revealTrans(duration=1,transition=5);"></a>		  <p class="txtBg"></p>
+		  <p class="txt">大禹兰庭花园外景图</p>
+            </li>
+		<li>
+		<a target="_blank" href="http://dayulantinghuayuan.fang.com/photo/list_900_1617158423.htm"><img title="大禹兰庭花园户型图" alt="大禹兰庭花园户型图" name="imgInit" src="http://img.soufun.com/viewimage/house/2006_11/22/1164179018438/290x220.jpeg" style="FILTER: revealTrans(duration=1,transition=5);"></a>		  <p class="txtBg"></p>
+		  <p class="txt">大禹兰庭花园户型图</p>
+	</li>
+          		
+		<li>
+		<a target="_blank" href="http://dayulantinghuayuan.fang.com/photo/list_901_1617158423.htm"><img title="大禹兰庭花园交通图" alt="大禹兰庭花园交通图" name="imgInit" src="http://img.soufun.com/viewimage/house/2006_08/25/1156500123470/290x220.jpeg" style="FILTER: revealTrans(duration=1,transition=5);"></a>		  <p class="txtBg"></p>
+		  <p class="txt">大禹兰庭花园交通图</p>
+	</li>
+          		
+		<li>
+		<a target="_blank" href="http://dayulantinghuayuan.fang.com/photo/list_904_1617158423.htm"><img title="大禹兰庭花园效果图" alt="大禹兰庭花园效果图" name="imgInit" src="http://img.soufun.com/viewimage/house/2007_04/06/1175851767731/290x220.jpeg" style="FILTER: revealTrans(duration=1,transition=5);"></a>		  <p class="txtBg"></p>
+		  <p class="txt">大禹兰庭花园效果图</p>
+	</li>
+          				  
+          </ul>
+        </div>
+      </div>
+ </div>
+				<!--focus end-->
+								<div class="rightbox mt15" id="xqw_B02_20">
+					<div class="itemTitle"><h2><span class="htitle">房价走势</span></h2></div>
+					<div class="piccontent">
+						<iframe src="http://pinggun.fang.com/estimate/iframe/esfDetailSheQuNew.aspx?newcode=1617158423&type=esf&height=160&width=250" width="250" height="190" frameborder="0" scrolling="no" id="house_30"  marginwidth="0" marginheight="0" hspace="0" vspace="0"></iframe>
+					</div>
+				</div>
+																				<!--xiaoquyuanding star-->
+				<div class="rightbox borderB" id="xqw_B02_22">
+					<div class="itemTitle">
+						<span class="more"><a href="http://dayulantinghuayuan.fang.com/guanjia/">更多管家&gt;&gt;</a></span>
+						<h2><span class="htitle">小区管家</span></h2>
+					</div>
+					<div class="piccontent2 heightMax">
+												<dl class="experts">
+							<dd><p>我很了解这个小区的信息，</p><p>愿意为这个小区的建设贡献力量。</p></dd>
+							<dd>
+								<a href="http://b.agent.fang.com/magent/Manager.aspx?p=/magent/ProjExperts/ApplyProjExperts.aspx?newcode=1617158423&purpose=%D7%A1%D5%AC" target="_blank" class="btn_sqxqgj"><img src="http://img1.soufun.com/house/detail_php/imageesf/btn_sqxqgj.gif" /></a>
+							</dd>
+							<dd>客服：<span class="orange">400-630-6888</span></dd>
+						</dl>		  
+											</div>
+				</div>
+				<!--xiaoquyuanding end-->
+								<div class="clear"></div>
+			</div>
+			<div class="clearbg"></div>
+		</div>
+		<!--xiaoqu main end-->
+		
+		<div class="mt10"></div>
+		
+		<!--houselist star-->
+				<div class="houselist mt15">
+			<dl class="title">				
+			    <dt class="name"><a id="xqw_B03_06" href="http://esf.sy.fang.com/house-xm1617158423/" target="_blank"><span>大禹兰庭花园二手房（51套房源）</span></a></dt>
+				
+			</dl>
+			<div class="morehouse">
+				<p class="floatl"></p>
+				<p class="floatr"><a id="xqw_B03_08" href="http://esf.sy.fang.com/house-xm1617158423/" target="_blank">更多出售房源&gt;&gt;</a></p>
+			</div>
+			
+			<div id="xqw_B03_10" class="clearfix listWp">
+												<dl class="List">
+					<dt>
+						<a href='http://esf.sy.fang.com/chushou/14_291642.htm' target="_blank">
+						<img src='http://img8.soufunimg.com/viewimage/m/2015_10/09/M09/00/51/wKgEQVYXfBKIbho8AAEbg2qUMccAAHgrADgq4sAARub731/194x147.jpg' alt="于洪 大禹兰庭花园 2室1厅"/></a><p class="tup"><img src="http://img1.soufun.com/house/detail_php/imageshequ/shou2.png"></p>
+					</dt>
+					<dd class="height20"><a href='http://esf.sy.fang.com/chushou/14_291642.htm'  target="_blank">于洪 大禹兰庭花园 2室1厅</a></dd>
+					<dd>
+												<p class="alignc lh28"><span class="gray6">2室1厅，66㎡</span><br />
+						<span class="price">50万元</span></p>
+					</dd>
+				</dl>
+																<dl class="List">
+					<dt>
+						<a href='http://esf.sy.fang.com/chushou/14_274953.htm' target="_blank">
+						<img src='http://imgs.soufun.com/viewimage/house/2014_10/24/shenyang/1414139183922_000/194x147.jpg' alt="于洪 大禹兰庭花园 2室2厅"/></a><p class="tup"><img src="http://img1.soufun.com/house/detail_php/imageshequ/shou2.png"></p>
+					</dt>
+					<dd class="height20"><a href='http://esf.sy.fang.com/chushou/14_274953.htm'  target="_blank">于洪 大禹兰庭花园 2室2厅</a></dd>
+					<dd>
+												<p class="alignc lh28"><span class="gray6">2室2厅，100㎡</span><br />
+						<span class="price">60万元</span></p>
+					</dd>
+				</dl>
+																<dl class="List">
+					<dt>
+						<a href='http://esf.sy.fang.com/chushou/14_269348.htm' target="_blank">
+						<img src='http://img1n.soufunimg.com/viewimage/agents/2011_02/16/10/10/shengyang/houseinfo/404996782100/194x147.jpg' alt="于洪 大禹兰庭花园 2室2厅"/></a><p class="tup"><img src="http://img1.soufun.com/house/detail_php/imageshequ/shou2.png"></p>
+					</dt>
+					<dd class="height20"><a href='http://esf.sy.fang.com/chushou/14_269348.htm'  target="_blank">于洪 大禹兰庭花园 2室2厅</a></dd>
+					<dd>
+												<p class="alignc lh28"><span class="gray6">2室2厅，100㎡</span><br />
+						<span class="price">65万元</span></p>
+					</dd>
+				</dl>
+																<dl class="List">
+					<dt>
+						<a href='http://esf.sy.fang.com/chushou/14_258715.htm' target="_blank">
+						<img src='http://imgs.soufun.com/viewimage/house/2012_02/09/1328772908563_000/194x147.jpg' alt="于洪 大禹兰庭花园 2室1厅"/></a><p class="tup"><img src="http://img1.soufun.com/house/detail_php/imageshequ/shou2.png"></p>
+					</dt>
+					<dd class="height20"><a href='http://esf.sy.fang.com/chushou/14_258715.htm'  target="_blank">于洪 大禹兰庭花园 2室1厅</a></dd>
+					<dd>
+												<p class="alignc lh28"><span class="gray6">2室1厅，67㎡</span><br />
+						<span class="price">40万元</span></p>
+					</dd>
+				</dl>
+												
+			</div>
+			<div class="clear"></div>
+        </div>
+				        <div class="houselist mt15">		
+			<dl class="title">
+				
+				<dt class="name"><a id="xqw_B03_07" href="http://zu.sy.fang.com/house-xm1617158423/" target="_blank"><span>大禹兰庭花园租房（3套房源）</span></a></dt>
+				
+			</dl>
+			<div class="morehouse">
+				<p class="floatl"></p>
+				<p class="floatr"><a id="xqw_B03_09" href="http://zu.sy.fang.com/house-xm1617158423/" target="_blank">更多出租房源&gt;&gt;</a></p>
+			</div>
+			
+			<div id="xqw_B03_11">
+												<dl class="List">
+					<dt>
+						<a href='http://zu.sy.fang.com/chuzu/3_170898804_1.htm' target="_blank"><img src='http://img.soufun.com/viewimage/house/2006_08/22/1156234500548/194x147.jpeg' alt="高品质住房 美好的三室两厅两卫"  /></a><p class="tup"><img src="http://img1.soufun.com/house/detail_php/imageshequ/zu2.png"></p>
+					</dt>
+					<dd class="height20"><a href='http://zu.sy.fang.com/chuzu/3_170898804_1.htm'  target="_blank">高品质住房 美好的三室两厅两卫</a></dd>
+					<dd>
+												<p class="agentimg"><a href="http://esf.sy.fang.com/a/jing01270" target="_blank"><img src="http://img1n.soufun.com/usercenter/2015_10/06/08/avatar/120_164254643_0.jpg"></a></p>
+												<p class="alignc lh28"><span class="gray6">3室2厅，140㎡</span><br />
+					  <span class="price">2800元/月</span></p>
+					</dd>
+				</dl>
+											</div>
+			<div class="clear"></div>
+		</div>
+				<!--houselist end-->
+		
+		<div class="mt10"></div>
+		<!--相册 star-->
+				<div class="tbox mt15" id="http://dayulantinghuayuan.fang.com/photo/1617158423.htm">
+			<div class="itemTitle">
+				<span class="more"><a href="http://dayulantinghuayuan.fang.com/photo/1617158423.htm" target="_blank">更多&gt;&gt;</a></span>
+				<span class="floatr">
+															<a href="http://dayulantinghuayuan.fang.com/photo/list_900_1617158423.htm">户型图(19)</a>
+																				<a href="http://dayulantinghuayuan.fang.com/photo/list_901_1617158423.htm">交通图(1)</a>
+																				<a href="http://dayulantinghuayuan.fang.com/photo/list_902_1617158423.htm">外景图(11)</a>
+																				<a href="http://dayulantinghuayuan.fang.com/photo/list_904_1617158423.htm">效果图(5)</a>
+																										</span>
+				<h2><span class="htitle">小区楼盘相册</span></h2>
+			</div>
+			<ul class="photocontbox">
+																					   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_152132244.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2014_10/24/shenyang/1414139183922_000/132x99.jpg" border="0" alt="大禹兰庭花园14" title="大禹兰庭花园14"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园14" href="http://dayulantinghuayuan.fang.com/photo/d_other_152132244.htm" target="_blank">大禹兰庭花园14</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_152132248.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2014_10/24/shenyang/1414139184533_000/132x99.jpg" border="0" alt="大禹兰庭花园15" title="大禹兰庭花园15"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园15" href="http://dayulantinghuayuan.fang.com/photo/d_other_152132248.htm" target="_blank">大禹兰庭花园15</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_152132250.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2014_10/24/shenyang/1414139185080_000/132x99.jpg" border="0" alt="大禹兰庭花园16" title="大禹兰庭花园16"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园16" href="http://dayulantinghuayuan.fang.com/photo/d_other_152132250.htm" target="_blank">大禹兰庭花园16</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_108202325.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2012_02/09/1328772908563_000/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_108202325.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_108202326.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2012_02/09/1328772909506_000/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_108202326.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_108202327.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2012_02/09/1328772910123_000/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_108202327.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_108202328.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2012_02/09/1328772911049_000/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_108202328.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_108202330.htm" target="_blank"><img width='132' height='99' src="http://imgs.soufun.com/viewimage/house/2012_02/09/1328772911573_000/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_108202330.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_99447421.htm" target="_blank"><img width='132' height='99' src="http://img1n.soufunimg.com/viewimage/agents/2011_02/16/10/10/shengyang/houseinfo/404996782100/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_99447421.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_99447424.htm" target="_blank"><img width='132' height='99' src="http://img1n.soufunimg.com/viewimage/agents/2010_11/22/73/34/shengyang/houseinfo/2045500500/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_99447424.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+																										   
+						
+										<li>
+						<div class="img">
+							<span class="edge"></span><span class="container"><a href="http://dayulantinghuayuan.fang.com/photo/d_other_99447425.htm" target="_blank"><img width='132' height='99' src="http://img1n.soufunimg.com/viewimage/agents/2010_12/26/37/21/shengyang/houseinfo/404635759400/132x99.jpg" border="0" alt="大禹兰庭花园 外景图" title="大禹兰庭花园 外景图"/> </a></span>
+						</div>
+						<div class="p2"><a title="大禹兰庭花园 外景图" href="http://dayulantinghuayuan.fang.com/photo/d_other_99447425.htm" target="_blank">大禹兰庭花园 外景图</a></div>
+					</li>	
+												</ul>
+		</div>
+				<!--相册 end-->
+		
+		<div class="mt10"></div>
+		
+		<!--jingxuanfangyuan star-->
+				<!--jingxuanfangyuan end-->
+		
+		<div class="mt10"></div>
+		
+		<!--装修 begin-->
+				<div class="tbox mt15">
+			<div class="itemTitle">
+				<span class="htitle">大禹兰庭花园案例专区:</span>
+				<span class="link_style_t">
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423__1_/" target="_blank">装修设计案例</a>
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423_1_2_/" target="_blank">家具案例</a>
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423__1_/" target="_blank">瓷砖案例</a>
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423__1_/" target="_blank">地板案例</a>
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423_3_5_/" target="_blank">卫浴设计案例</a>
+					<a href="http://home.fang.com/zhuangxiu/caseFor4S203________1617158423_5_6_/" target="_blank">厨房案例</a>
+				</span>
+			</div>
+			<ul class="photocontbox photo_zx clearfix" style="height:auto;">
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1703305/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2015_09/25/64/15/pic/004817488600.jpg" border="0" alt="华润·幸福里-三居室-141㎡-装修案例" title="华润·幸福里-三居室-141㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="华润·幸福里-三居室-141㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1703305/" target="_blank" class="gray3">华润·幸福里-三居室-141㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">62000</span>元</div>
+					<div class="height20">关注：<span class="org">449</span>次</div>
+				</li>
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1701839/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2015_09/24/98/3/pic/006328566400.jpg" border="0" alt="金地·铂悦-三居室-131㎡-装修案例" title="金地·铂悦-三居室-131㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="金地·铂悦-三居室-131㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1701839/" target="_blank" class="gray3">金地·铂悦-三居室-131㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">62000</span>元</div>
+					<div class="height20">关注：<span class="org">209</span>次</div>
+				</li>
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1719622/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2014_11/09/97/61/pic/009923340900.jpg" border="0" alt="金地锦城-三居室-130㎡-装修案例" title="金地锦城-三居室-130㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="金地锦城-三居室-130㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1719622/" target="_blank" class="gray3">金地锦城-三居室-130㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">58000</span>元</div>
+					<div class="height20">关注：<span class="org">102</span>次</div>
+				</li>
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1714365/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2015_10/08/71/89/pic/007416374900.gif" border="0" alt="华润·奉天九里-三居室-149㎡-装修案例" title="华润·奉天九里-三居室-149㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="华润·奉天九里-三居室-149㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1714365/" target="_blank" class="gray3">华润·奉天九里-三居室-149㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">73000</span>元</div>
+					<div class="height20">关注：<span class="org">267</span>次</div>
+				</li>
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1705439/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2015_09/27/3/42/pic/002072309800.jpg" border="0" alt="中海国际社区-三居室-142㎡-装修案例" title="中海国际社区-三居室-142㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="中海国际社区-三居室-142㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1705439/" target="_blank" class="gray3">中海国际社区-三居室-142㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">65000</span>元</div>
+					<div class="height20">关注：<span class="org">161</span>次</div>
+				</li>
+								<li>
+					<div class="img">
+						<span class="edge"></span><span class="container"><a href="http://home.sy.fang.com/zhuangxiu/caseinfo1700319/" target="_blank"><img width="132" height="99" src="http://img1n.soufunimg.com/zxb/2015_09/23/77/37/pic/007786302600.jpg" border="0" alt="华润·奉天九里-三居室-199㎡-装修案例" title="华润·奉天九里-三居室-199㎡-装修案例"> </a></span>
+					</div>
+					<div class="height20"><a title="华润·奉天九里-三居室-199㎡-装修案例" href="http://home.sy.fang.com/zhuangxiu/caseinfo1700319/" target="_blank" class="gray3">华润·奉天九里-三居室-199㎡-装修案例</a></div>
+					<div class="height20">装修案例</div>
+					<div class="height20">店铺：<a href="http://home.sy.fang.com/zhuangxiu/designer/designerinfo50144/" target="_blank">北京业之峰装饰沈阳分公司官方旗舰店</a></div>
+					<div class="height20">预算：<span class="org">120000</span>元</div>
+					<div class="height20">关注：<span class="org">236</span>次</div>
+				</li>
+							</ul>
+	    </div>
+	    		<!--装修 end-->
+		<!--附近小区 start-->
+				    <div class="plotNear">大禹兰庭花园附近小区：
+		        			        <a href="http://huitinghuayuan2.fang.com/">蕙庭花园</a>
+		        			        <a href="http://changchengxiaoqu024.fang.com/">长城小区</a>
+		        			        <a href="http://balishijia024.fang.com/">巴黎世家</a>
+		        			        <a href="http://liangdaxiaoqu.fang.com/">靓达小区</a>
+		        			        <a href="http://esf.sy.fang.com/house-xm1617767501/">巴黎世家别墅</a>
+		        			        <a href="http://esf.sy.fang.com/house-xm1617676095/">靓马新村</a>
+		        			        <a href="http://binhuhuayuanjm.fang.com/">靓马滨湖花园</a>
+		        			        <a href="http://8dongyangfang.fang.com/">8栋洋房</a>
+		        			        <a href="http://esf.sy.fang.com/house-xm1617803053/">芸珠花园</a>
+		        			        <a href="http://xingfuli024.fang.com/">幸福里</a>
+		        			</div>
+				<!--附近小区 end-->
+		<!-- 当前在线 begin -->
+		
+		<script>
+			var projname='大禹兰庭花园小区网';
+			var jsdata={"showUser":"1","allcount":76,"regcount":0,"guestcount":76,"UserList":[],"ManagerList":[],"UserBlockList":[]};
+			if(!jsdata.error && jsdata)
+			{
+				document.write("<div class=\"onlinedq mt10\" id=\"xqw_B03_12\">");
+				document.write("<div class=\"onlinedqTt\">");
+				document.write("<span class=\"fl\">"+projname+"当前在线人数 <span class=\"orange\">"+jsdata.allcount+"</span> 人， ");
+				document.write("共有 <span class=\"orange\">"+jsdata.regcount+"</span> 位会员与 ");
+				document.write("<span class=\"orange\">"+jsdata.guestcount+"</span> 位客人，您是本小区第 <span class=\"orange\">"+jsdata.allcount+"</span> 位访客</span>");
+				document.write("</div>");
+				document.write("</div>");
+			}
+		</script>
+		
+	
+		<div class="mt10"></div>
+
+		<!--拼音索引 begin-->
+		<div id="TabView1" class="sqindex mt10">
+			<div id="xqw_B03_14">
+				<dl>
+					<dt>拼音索引</dt>
+										<dd id="a">A</dd>
+										<dd id="b">B</dd>
+										<dd id="c">C</dd>
+										<dd id="d">D</dd>
+										<dd id="e">E</dd>
+										<dd id="f">F</dd>
+										<dd id="g">G</dd>
+										<dd id="h">H</dd>
+										<dd id="i">I</dd>
+										<dd id="j">J</dd>
+										<dd id="k">K</dd>
+										<dd id="l">L</dd>
+										<dd id="m">M</dd>
+										<dd id="n">N</dd>
+										<dd id="o">O</dd>
+										<dd id="p">P</dd>
+										<dd id="q">Q</dd>
+										<dd id="r">R</dd>
+										<dd id="s">S</dd>
+										<dd id="t">T</dd>
+										<dd id="u">U</dd>
+										<dd id="v">V</dd>
+										<dd id="w">W</dd>
+										<dd id="x">X</dd>
+										<dd id="y">Y</dd>
+										<dd id="z">Z</dd>
+									</dl>
+				<div class="sqcontent">
+										<div id='a1'>
+												   <a href='http://aixinyuan024.fang.com/' target="_blank">爱馨苑</a>												   <a href='http://guojihuayuanat.fang.com/' target="_blank">艾特国际花园</a>												   <a href='http://aixinjiayuan024.fang.com/' target="_blank">爱心家园</a>												   <a href='http://anyuanxiaoqu024.fang.com/' target="_blank">安源小区</a>												   <a href='http://anshanggongguan.fang.com/' target="_blank">岸上公馆</a>												   <a href='http://ailijingshe.fang.com/' target="_blank">爱俪精舍</a>												   <a href='http://aiminshequ.fang.com/' target="_blank">爱民社区</a>												   <a href='http://xihuyinxiangah.fang.com/' target="_blank">澳海西湖印象</a>												   <a href='http://aixinshequ.fang.com/' target="_blank">爱心社区</a>												   <a href='http://anshunxiaoqu024.fang.com/' target="_blank">安顺小区</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_A.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='b1'>
+												   <a href='http://baogongyiyuan.fang.com/' target="_blank">保工怡园</a>												   <a href='http://hepahuayuanbyh.fang.com/' target="_blank">北运河畔花园</a>												   <a href='http://bihaigongyu024.fang.com/' target="_blank">碧海公寓</a>												   <a href='http://beimeijiayuan024.fang.com/' target="_blank">北美家园</a>												   <a href='http://bihuali024.fang.com/' target="_blank">比华利</a>												   <a href='http://borunguojidasha.fang.com/' target="_blank">博润国际大厦</a>												   <a href='http://binhejiayuan024.fang.com/' target="_blank">滨河家园</a>												   <a href='http://bainiaoxiyuan.fang.com/' target="_blank">百鸟西苑</a>												   <a href='http://xinyechengbsh.fang.com/' target="_blank">北市新夜城</a>												   <a href='http://beihaijiayuan024.fang.com/' target="_blank">北海嘉园</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_B.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='c1'>
+												   <a href='http://dongyihuayuanchj.fang.com/' target="_blank">城建东逸花园</a>												   <a href='http://chenyuxincun.fang.com/' target="_blank">辰宇新村</a>												   <a href='http://mengxiangzhijiachj.fang.com/' target="_blank">城建梦翔之家</a>												   <a href='http://chengsishiguang.fang.com/2/' target="_blank">橙色时光二期</a>												   <a href='http://cifangdasha2.fang.com/' target="_blank">慈芳大厦</a>												   <a href='http://tongzeguangchangchj.fang.com/' target="_blank">城建同泽广场</a>												   <a href='http://chengshijiayuan024.fang.com/' target="_blank">城市家园</a>												   <a href='http://xinyuyuanchj.fang.com/' target="_blank">城建鑫宇园</a>												   <a href='http://chengjianhuayuan.fang.com/' target="_blank">城建花园</a>												   <a href='http://chenglonghuayuan024.fang.com/' target="_blank">成龙花园</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_C.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='d1'>
+												   <a href='http://dongdazhihuiyuan.fang.com/' target="_blank">东大智慧园</a>												   <a href='http://shangwudashaly.fang.com/' target="_blank">东盛花园</a>												   <a href='http://dushigangwan024.fang.com/' target="_blank">都市港湾</a>												   <a href='http://dianyeyuandx.fang.com/' target="_blank">大西电业园</a>												   <a href='http://diecairenjia.fang.com/' target="_blank">叠彩人家</a>												   <a href='http://donghuanyajuhuayuan.fang.com/' target="_blank">东环雅居花园</a>												   <a href='http://guojihuayuandh.fang.com/2/' target="_blank">东环国际花园二期</a>												   <a href='http://dongfangzhizhu024.fang.com/' target="_blank">东方之珠</a>												   <a href='http://diwangbaixingguojigongyu.fang.com/' target="_blank">地王白金国际公寓</a>												   <a href='http://dingxianghupanxincheng.fang.com/' target="_blank">丁香湖畔新城</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_D.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='e1'>
+												   <a href='http://jianyuan024.fang.com/2/' target="_blank">二期剑苑小区</a>												   <a href='http://ebaijiayuan.fang.com/' target="_blank">e佰家园</a>												   <a href='http://ertaizixiaoqu.fang.com/' target="_blank">二台子小区</a>												   <a href='http://erjianxiaoqu024.fang.com/' target="_blank">二建小区</a>												   <a href='http://endehuayuan.fang.com/' target="_blank">恩德花园</a>												<a href="http://esf.sy.fang.com/housing/letter_E.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='f1'>
+												   <a href='http://fenghuangxincun024.fang.com/' target="_blank">凤凰新村</a>												   <a href='http://fuchenghuayuan024.fang.com/' target="_blank">富城花园</a>												   <a href='http://fuqinghuayuan.fang.com/' target="_blank">富馨花园</a>												   <a href='http://guojihuayuanfc024.fang.com/' target="_blank">富城国际花园</a>												   <a href='http://fenghuashidai024.fang.com/' target="_blank">风华时代</a>												   <a href='http://fuliyangguang.fang.com/' target="_blank">富丽阳光</a>												   <a href='http://fuyuanmingdu.fang.com/' target="_blank">府苑名都</a>												   <a href='http://fengtianyinzuo.fang.com/' target="_blank">奉天银座</a>												   <a href='http://fuhaimingzun.fang.com/' target="_blank">富海铭尊</a>												   <a href='http://fangdidongge.fang.com/' target="_blank">方迪东阁</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_F.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='g1'>
+												   <a href='http://gelinhaosen.fang.com/' target="_blank">格林豪森</a>												   <a href='http://guoaoxiandaicheng.fang.com/' target="_blank">国奥现代城</a>												   <a href='http://gelinxiameng.fang.com/' target="_blank">格林梦夏</a>												   <a href='http://gaoxiaoshuxiangmendi.fang.com/' target="_blank">高校书香门第</a>												   <a href='http://sohogl.fang.com/' target="_blank">格林70年代</a>												   <a href='http://guanfangyuan.fang.com/2/' target="_blank">冠芳园二期</a>												   <a href='http://ziyouchenggl.fang.com/' target="_blank">格林自由城</a>												   <a href='http://guangdadasha024.fang.com/' target="_blank">光达大厦</a>												   <a href='http://guoruidongfangshangcheng.fang.com/' target="_blank">国瑞东方商城</a>												   <a href='http://gelinchunxiao024.fang.com/' target="_blank">格林春晓</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_G.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='h1'>
+												   <a href='http://huilianhuayuan.fang.com/' target="_blank">慧莲花园</a>												   <a href='http://huajinghuayuan024.fang.com/' target="_blank">华景花园</a>												   <a href='http://haolongshijia.fang.com/' target="_blank">豪隆世家</a>												   <a href='http://huashengxincun024.fang.com/' target="_blank">华盛新村</a>												   <a href='http://huaxishanzhuang024.fang.com/' target="_blank">花溪山庄</a>												   <a href='http://hongkaihuayuan.fang.com/' target="_blank">鸿凯花园</a>												   <a href='http://huanghaihuayuan024.fang.com/' target="_blank">黄海花园</a>												   <a href='http://huadouxincun.fang.com/' target="_blank">华都新村</a>												   <a href='http://yuanwaiyuanht.fang.com/' target="_blank">红田园外园</a>												   <a href='http://huanjihuayuan024.fang.com/' target="_blank">环际花园</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_H.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='i1'>
+												<a href="http://esf.sy.fang.com/housing/letter_I.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='j1'>
+												   <a href='http://jinsegaoerfuwsshq.fang.com/' target="_blank">金色高尔夫外商生活区</a>												   <a href='http://jinbihuayuan024.fang.com/' target="_blank">金碧花园</a>												   <a href='http://jialinhuayuan024.fang.com/' target="_blank">嘉麟花园</a>												   <a href='http://jinliyuan024.fang.com/' target="_blank">金利苑</a>												   <a href='http://jixianghuayuan024.fang.com/' target="_blank">吉祥花园</a>												   <a href='http://jinjuhuayuan024.fang.com/' target="_blank">金居花园</a>												   <a href='http://jinhuayuan024.fang.com/' target="_blank">金华园</a>												   <a href='http://jinxiuhuayuan024.fang.com/' target="_blank">锦绣花园</a>												   <a href='http://guojishangwuhuiguanfj.fang.com/' target="_blank">吉祥花园小区6#楼</a>												   <a href='http://jinsuihuayuan024.fang.com/' target="_blank">金穗花园(皇姑)</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_J.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='k1'>
+												   <a href='http://kongquehuayuan.fang.com/' target="_blank">孔雀花园</a>												   <a href='http://kejianxiaoqu.fang.com/' target="_blank">克俭小区</a>												   <a href='http://kunpengjiayuan.fang.com/' target="_blank">鲲鹏家园</a>												   <a href='http://kelaisiteguojihuayuan.fang.com/' target="_blank">克莱斯特国际花园</a>												   <a href='http://kaijiankangdu.fang.com/' target="_blank">开建康都</a>												   <a href='http://kaixinghuayuan024.fang.com/' target="_blank">凯兴花园</a>												   <a href='http://kangchengmingpin.fang.com/' target="_blank">康城茗品</a>												   <a href='http://kairongguojihuayuan.fang.com/' target="_blank">凯荣国际花园</a>												   <a href='http://kuntaixinjie.fang.com/' target="_blank">坤泰新界</a>												   <a href='http://kefengxiaoqu.fang.com/' target="_blank">科丰小区</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_K.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='l1'>
+												   <a href='http://limingluomahuayuan.fang.com/' target="_blank">黎明罗马花园</a>												   <a href='http://longyihuayuan024.fang.com/' target="_blank">龙逸花园</a>												   <a href='http://baiheyuanld.fang.com/' target="_blank">绿都百合园</a>												   <a href='http://longdingdasha.fang.com/' target="_blank">龙鼎大厦</a>												   <a href='http://chengshihuayuanlh.fang.com/' target="_blank">龙汉城市花园</a>												   <a href='http://lijinghuayuan024.fang.com/' target="_blank">丽景花园</a>												   <a href='http://longxiyuan024.fang.com/' target="_blank">龙溪园</a>												   <a href='http://lishenghuayuan.fang.com/' target="_blank">利生华园</a>												   <a href='http://lvjingjiayuan024.fang.com/' target="_blank">绿景家园</a>												   <a href='http://laiyinhepan024.fang.com/' target="_blank">莱茵河畔</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_L.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='m1'>
+												   <a href='http://meilinyishu024.fang.com/' target="_blank">美林逸墅</a>												   <a href='http://minzujiayuan.fang.com/' target="_blank">民族家园</a>												   <a href='http://minshengjiayuan024.fang.com/' target="_blank">民生家园</a>												   <a href='http://mingdijiayuan.fang.com/' target="_blank">明地家园</a>												   <a href='http://minankangcheng.fang.com/' target="_blank">民安康城</a>												   <a href='http://manhadunguojizhuangyuan.fang.com/' target="_blank">曼哈顿国际庄园</a>												   <a href='http://mingchenghuayuan024.fang.com/' target="_blank">明城花园</a>												   <a href='http://muyehuayuan.fang.com/' target="_blank">木叶花园</a>												   <a href='http://mingshizhidu02.fang.com/' target="_blank">名仕之都</a>												   <a href='http://kailimg.fang.com/' target="_blank">摩根凯利</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_M.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='n1'>
+												   <a href='http://nanyuankangjulou.fang.com/' target="_blank">南园康居楼</a>												   <a href='http://nanhuxinyuan.fang.com/' target="_blank">南湖新园</a>												   <a href='http://nenjiangshequ.fang.com/' target="_blank">嫩江社区</a>												   <a href='http://nanfenghuijingge.fang.com/' target="_blank">南风汇景阁</a>												   <a href='http://nanfengyage.fang.com/' target="_blank">南风雅阁</a>												   <a href='http://napayangguang024.fang.com/' target="_blank">纳帕阳光</a>												   <a href='http://nantaxiaoqu.fang.com/' target="_blank">南塔小区</a>												   <a href='http://nuoweisenlin024.fang.com/' target="_blank">挪威森林</a>												   <a href='http://nanshixiaoqu.fang.com/' target="_blank">南市小区</a>												   <a href='http://nanfengyaxuan024.fang.com/' target="_blank">南风雅轩</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_N.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='o1'>
+												   <a href='http://oushangyipin.fang.com/' target="_blank">欧尚一品</a>												   <a href='http://oufengyuan024.fang.com/' target="_blank">欧风园</a>												   <a href='http://oufengxiaozhen.fang.com/' target="_blank">欧风小镇</a>												   <a href='http://oushangyipindongqu.fang.com/' target="_blank">欧尚一品东区</a>												   <a href='http://oushangyipinxiqu.fang.com/' target="_blank">欧尚一品西区</a>												   <a href='http://oulufengqingxiaozhen.fang.com/' target="_blank">欧陆风情小镇</a>												<a href="http://esf.sy.fang.com/housing/letter_O.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='p1'>
+												   <a href='http://pinganxinyuan024.fang.com/' target="_blank">平安馨园</a>												   <a href='http://bangjianghuayuan.fang.com/' target="_blank">滂江花园</a>												   <a href='http://pengchengruoshuiju.fang.com/' target="_blank">鹏程若水居</a>												   <a href='http://pingheyuan.fang.com/' target="_blank">平和苑</a>												   <a href='http://dayuechengzl024.fang.com/' target="_blank">鹏利广场花园</a>												   <a href='http://puchendasha.fang.com/' target="_blank">普臣商厦</a>												   <a href='http://pengchenghuayuanshangyangyuan.fang.com/' target="_blank">鹏程花园上漾园</a>												   <a href='http://pujiangyuan024.fang.com/' target="_blank">浦江苑</a>												   <a href='http://pujiangshengjingwan.fang.com/' target="_blank">浦江盛景湾</a>												   <a href='http://paoshiganxiusuo.fang.com/' target="_blank">炮师干休所</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_P.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='q1'>
+												   <a href='http://qingyangsijiyuan.fang.com/' target="_blank">青阳四季园</a>												   <a href='http://qingnianjuyi024.fang.com/' target="_blank">青年居易</a>												   <a href='http://qianyuanaiduguojibzuo.fang.com/' target="_blank">千缘·爱都国际</a>												   <a href='http://qianyuanaicheng.fang.com/' target="_blank">千缘爱城</a>												   <a href='http://quanyongxinzhen.fang.com/' target="_blank">泉涌新镇(别墅)</a>												   <a href='http://shangwudashaqy.fang.com/' target="_blank">启运商务大厦</a>												   <a href='http://qilixiangdi.fang.com/' target="_blank">七里香堤</a>												   <a href='http://qianshuiwan024.fang.com/' target="_blank">浅水湾</a>												   <a href='http://lishuifenglinqclg.fang.com/3/' target="_blank">浅草绿阁三期</a>												   <a href='http://qingcheng024.fang.com/' target="_blank">青城</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_Q.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='r1'>
+												   <a href='http://ruishijiayuan024.fang.com/' target="_blank">瑞士家园</a>												   <a href='http://ruifengjiayuan024.fang.com/' target="_blank">瑞丰嘉园</a>												   <a href='http://rongchenghuayuan024.fang.com/' target="_blank">荣成花园</a>												   <a href='http://guojidashard.fang.com/' target="_blank">荣达国际大厦</a>												   <a href='http://ruyimingju.fang.com/' target="_blank">如意名苑</a>												   <a href='http://renminlixiaoqu.fang.com/' target="_blank">人民里小区</a>												   <a href='http://fengqingxiaozhenrs.fang.com/' target="_blank">瑞士风情小镇</a>												   <a href='http://caifuguangchangrx02402.fang.com/' target="_blank">荣信财富广场</a>												   <a href='http://rifengjiayuan.fang.com/' target="_blank">日丰佳苑</a>												   <a href='http://rongchengshidai.fang.com/' target="_blank">融城时代</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_R.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='s1'>
+												   <a href='http://shengfahuayuan.fang.com/' target="_blank">盛发花园</a>												   <a href='http://guibiyuansl.fang.com/' target="_blank">三隆碧桂园</a>												   <a href='http://shuianyaju024.fang.com/' target="_blank">水岸雅居</a>												   <a href='http://shidaijiayuan024.fang.com/' target="_blank">世代家园</a>												   <a href='http://shuangxinjiayuan.fang.com/' target="_blank">双鑫家园</a>												   <a href='http://yanchismdq.fang.com/' target="_blank">水墨丹青砚池</a>												   <a href='http://weimeishifang.fang.com/' target="_blank">山地艺墅</a>												   <a href='http://shenghuayuan024.fang.com/' target="_blank">盛华苑</a>												   <a href='http://shenxinyuan.fang.com/' target="_blank">沈新园</a>												   <a href='http://shijixinchegnsl.fang.com/' target="_blank">三隆世纪新城</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_S.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='t1'>
+												   <a href='http://tianshunjiayuan024.fang.com/' target="_blank">天顺家园</a>												   <a href='http://tianyiyuan.fang.com/' target="_blank">天意缘</a>												   <a href='http://taifengyuan024.fang.com/' target="_blank">泰丰苑</a>												   <a href='http://taiheyuan024.fang.com/' target="_blank">泰合苑</a>												   <a href='http://720289.fang.com/' target="_blank">泰山路经济适用住房项目</a>												   <a href='http://hupanjiayuantc.fang.com/' target="_blank">泰宸湖畔佳园</a>												   <a href='http://longtengguojishangwugongyu.fang.com/' target="_blank">腾龙国际商务公寓(住宅)</a>												   <a href='http://tianbaoguojishangwujiudiangongyu.fang.com/' target="_blank">天宝国际商务酒店公寓</a>												   <a href='http://tianxirenjia.fang.com/' target="_blank">天玺人家</a>												   <a href='http://tianshijiayuan024.fang.com/' target="_blank">天时嘉园</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_T.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='u1'>
+												<a href="http://esf.sy.fang.com/housing/letter_U.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='v1'>
+												<a href="http://esf.sy.fang.com/housing/letter_V.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='w1'>
+												   <a href='http://wanquanjiayuan.fang.com/' target="_blank">万泉家园</a>												   <a href='http://zijinyuanwk.fang.com/' target="_blank">万科紫金苑</a>												   <a href='http://wanghuaxincun.fang.com/' target="_blank">望花新村</a>												   <a href='http://wangfuhuayuan024.fang.com/' target="_blank">王府花园</a>												   <a href='http://yidafengjing.fang.com/' target="_blank">唯美品格</a>												   <a href='http://wulihejiayuan.fang.com/' target="_blank">五里河家园</a>												   <a href='http://wanhege.fang.com/' target="_blank">万和阁</a>												   <a href='http://wanxindongyuan.fang.com/' target="_blank">万新东苑</a>												   <a href='http://wulihedasha.fang.com/' target="_blank">五里河大厦</a>												   <a href='http://dongfanglichengwh2.fang.com/' target="_blank">万恒东方俪城</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_W.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='x1'>
+												   <a href='http://kejihuayuanxsh.fang.com/' target="_blank">祥顺科技花园</a>												   <a href='http://xinshijijiayuan024.fang.com/' target="_blank">新世纪家园</a>												   <a href='http://xingshengjiayuan024.fang.com/' target="_blank">兴盛家园</a>												   <a href='http://xitaxiaoqu.fang.com/' target="_blank">西塔小区</a>												   <a href='http://xiangfenghuayuan.fang.com/' target="_blank">翔凤华园</a>												   <a href='http://xinhuahuayuan024.fang.com/' target="_blank">新华花园</a>												   <a href='http://xinhuayuan024.fang.com/' target="_blank">新华园</a>												   <a href='http://xiandaijiayuan024.fang.com/' target="_blank">现代家园</a>												   <a href='http://xilinhuayuan.fang.com/' target="_blank">溪林花园</a>												   <a href='http://xianggongxiaoqu.fang.com/' target="_blank">向工小区</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_X.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='y1'>
+												   <a href='http://nanaoguoji.fang.com/' target="_blank">亿丰时代广场</a>												   <a href='http://yaduyuan.fang.com/' target="_blank">雅都苑</a>												   <a href='http://yunhuayuan024.fang.com/' target="_blank">云华园</a>												   <a href='http://yingbinhuayuan024.fang.com/' target="_blank">迎宾花园</a>												   <a href='http://yinheguoji024.fang.com/' target="_blank">银河国际</a>												   <a href='http://yinxingyuan024.fang.com/' target="_blank">银兴苑</a>												   <a href='http://yiranyaju024.fang.com/' target="_blank">怡然雅居</a>												   <a href='http://yangguanghuayuan024.fang.com/' target="_blank">阳光花园</a>												   <a href='http://yanfenxiaoqu.fang.com/4/' target="_blank">艳粉四期</a>												   <a href='http://yongquanxiaoqu.fang.com/' target="_blank">涌泉小区</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_Y.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+										<div id='z1'>
+												   <a href='http://chengshiyangguangzhl.fang.com/' target="_blank">中联城市阳光</a>												   <a href='http://guojihuayuanzhl.fang.com/' target="_blank">中辽国际花园</a>												   <a href='http://zhengxingjiayuan024.fang.com/' target="_blank">政兴家园</a>												   <a href='http://shijijiayuanzhr.fang.com/' target="_blank">中润世纪家园</a>												   <a href='http://yangguangxinyuanzhch.fang.com/' target="_blank">正昌阳光新苑</a>												   <a href='http://zhongshanxiujing.fang.com/' target="_blank">中山秀景</a>												   <a href='http://zhuolinxiaoqu.fang.com/' target="_blank">珠林小区</a>												   <a href='http://guojidashazr.fang.com/' target="_blank">中润国际大厦</a>												   <a href='http://jueyuetingzdgc.fang.com/' target="_blank">正大广场</a>												   <a href='http://zhujingdongfang.fang.com/' target="_blank">筑景东方</a>												   												   												   												   												   												   												   												   												   												   												   												   												   												   												<a href="http://esf.sy.fang.com/housing/letter_Z.htm" target="_blank" class="more">更多&gt;&gt;</a>
+					</div>
+						
+				</div>
+				<label selectclass="hover" changeon="mouseover" fade="false" id="Label1" type="tabview">
+										<span selected='true' block='a1' button='a'></span>
+										<span  block='b1' button='b'></span>
+										<span  block='c1' button='c'></span>
+										<span  block='d1' button='d'></span>
+										<span  block='e1' button='e'></span>
+										<span  block='f1' button='f'></span>
+										<span  block='g1' button='g'></span>
+										<span  block='h1' button='h'></span>
+										<span  block='i1' button='i'></span>
+										<span  block='j1' button='j'></span>
+										<span  block='k1' button='k'></span>
+										<span  block='l1' button='l'></span>
+										<span  block='m1' button='m'></span>
+										<span  block='n1' button='n'></span>
+										<span  block='o1' button='o'></span>
+										<span  block='p1' button='p'></span>
+										<span  block='q1' button='q'></span>
+										<span  block='r1' button='r'></span>
+										<span  block='s1' button='s'></span>
+										<span  block='t1' button='t'></span>
+										<span  block='u1' button='u'></span>
+										<span  block='v1' button='v'></span>
+										<span  block='w1' button='w'></span>
+										<span  block='x1' button='x'></span>
+										<span  block='y1' button='y'></span>
+										<span  block='z1' button='z'></span>
+									</label>
+			</div>
+			<script src="http://img.soufun.com/secondhouse/image/esfnew/scripts/Root.TabView.js" type="text/javascript"></script>
+			<div class="clear"></div> 
+		</div>
+		<!--拼音索引 end-->
+	
+		<div class="blank10"></div>
+	
+	
+
+		<!--20110322搜房网统一版尾begin-->
+				<div id="xqw_B03_15">
+<style type="text/css">
+div,form,img,ul,ol,li,dl,dt,dd,p{margin:0;padding:0px;border:0;}
+.sfunfooter20120411{width:960px;background:#fff;color:#333;font-size:12px;font-family:'宋体';text-align:center;clear:both;margin:0 auto;}
+.sfunfooter20120411 a:link{font-size:12px;color:#333;text-decoration:none;}
+.sfunfooter20120411 a:visited{font-size:12px;color:#333;text-decoration:none;}
+.sfunfooter20120411 a:hover{font-size:12px;color:#c00;text-decoration:underline;}
+.sfunfooter20120411 .song{line-height:20px;}
+.sfunfooter20120411 .verdana{line-height:20px;font-family: Verdana;}
+.sfunfooter20120411 .verdana a{color:#333;font-family:'宋体';padding:2px 7px;text-decoration:none;}
+.sfunfooter20120411 .verdana a:hover{color:#c00;text-decoration:underline;}
+.sfunfooter20120411 em{ font-style:normal;font-family: Verdana;}
+.sfunfooter20120411 .spacing{line-height:23px;letter-spacing:3px;font-family:Verdana;margin-top:5px;}
+.sfunfooter20120411 td a{display:block}
+.sfunfooter20120411 td a:hover{color:#c00;text-decoration:none;}
+.footershaixa{position:relative; z-index:2}
+.footershaixa a{color:#333;text-decoration:none;}
+.footershaixb{display:none;width:500px;height:175px;position:absolute;left:-230px;top:16px;cursor:auto;background:#fff;border:1px solid #c00;text-align:left;}
+.footershaixa.activexiala div{display:block;padding:5px 10px;}
+.footershaixa.activexiala div td{line-height:22px;}
+</style>
+
+<!--20120411搜房网统一版尾begin-->
+<div class="sfunfooter20120411">
+	<div class="verdana">
+   	  <a href="http://www.fang.com/aboutus/index.asp" target="_blank">关于我们</a>‖
+		<a href="http://www.fang.com/hezuo_file/house/index.html" target="_blank">网站合作</a>‖
+       <a href="http://www.fang.com/aboutus/contactus.html" target="_blank">联系我们</a>‖
+        <a href="http://www.fang.com/zhaopin" target="_blank">招聘信息</a>‖
+      <span onmouseover="this.className='footershaixa activexiala'" onmouseout="this.className='footershaixa'" style="width:80px"><a href="http://www.fang.com/SoufunFamily.htm" >房天下家族</a>‖<div class="footershaixb">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+			  <tr>
+				<td width="16"><strong style="color:#c00;">B</strong></td>
+				<td width="80" ><a href="http://bj.fang.com/" target="_blank">北京房地产</a></td>
+				<td width="16"><strong style="color:#c00;">D</strong></td>
+				<td width="80"><a href="http://dg.fang.com/" target="_blank">东莞房地产</a></td>
+				<td width="16">&nbsp;</td>
+				<td width="80"><a href="http://hn.fang.com/" target="_blank">海南房地产</a></td>
+				<td width="16">&nbsp;</td>
+				<td width="100"><a href="http://nn.fang.com/" target="_blank">南宁房地产</a></td>
+				<td width="16">&nbsp;</td>
+				<td width="80"><a href="http://sy.fang.com/" target="_blank">沈阳房地产</a></td>
+			  </tr>
+			  <tr>
+				<td><strong style="color:#c00;">C</strong></td>
+				<td><a href="http://cd.fang.com/" target="_blank">成都房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://dl.fang.com/" target="_blank">大连房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://hf.fang.com" target="_blank">合肥房地产</a></td>
+				<td><strong style="color:#c00;">Q</strong></td>
+				<td><a href="http://qd.fang.com/" target="_blank">青岛房地产</a></td>
+				<td><strong style="color:#c00;">T</strong></td>
+				<td><a href="http://tj.fang.com/" target="_blank">天津房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cq.fang.com/" target="_blank">重庆房地产</a></td>
+				<td><strong style="color:#c00;">F</strong></td>
+				<td><a href="http://fz.fang.com/" target="_blank">福州房地产</a></td>
+				<td><strong style="color:#c00;">J</strong></td>
+				<td><a href="http://jn.fang.com/" target="_blank">济南房地产</a></td>
+				<td><strong style="color:#c00;">S</strong></td>
+				<td><a href="http://sh.fang.com/" target="_blank">上海房地产</a></td>
+				<td><strong style="color:#c00;">W</strong></td>
+				<td><a href="http://wuhan.fang.com/" target="_blank">武汉房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cs.fang.com/" target="_blank">长沙房地产</a></td>
+				<td><strong style="color:#c00;">G</strong></td>
+				<td><a href="http://gz.fang.com/" target="_blank">广州房地产</a></td>
+				<td><strong style="color:#c00;">N</strong></td>
+				<td><a href="http://nanjing.fang.com/" target="_blank">南京房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://sz.fang.com/" target="_blank">深圳房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://wuxi.fang.com/" target="_blank">无锡房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://changchun.fang.com/" target="_blank">长春房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://gy.fang.com" target="_blank">贵阳房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://nc.fang.com/" target="_blank">南昌房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://suzhou.fang.com/" target="_blank">苏州房地产</a></td>
+				<td><strong style="color:#c00;">X</strong></td>
+				<td><a href="http://xian.fang.com/" target="_blank">西安房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cz.fang.com/" target="_blank">常州房地产</a></td>
+				<td><strong style="color:#c00;">H</strong></td>
+				<td><a href="http://hz.fang.com/" target="_blank">杭州房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://nb.fang.com/" target="_blank">宁波房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://sjz.fang.com/" target="_blank">石家庄房地产</a></td>
+
+				<td><strong style="color:#c00;">Z</strong></td>
+				<td><a href="http://zz.fang.com/" target="_blank">郑州房地产</a></td>
+			  </tr>
+			  
+			</table>
+			<div style="text-align:right;padding:0px;" ><a href="http://www.fang.com/SoufunFamily.htm" target="_blank">进入房天下家族&gt;&gt;</a></div>
+      </div></span>
+        <a href="http://www.fang.com/sitemap/sitemap.html" target="_blank">网站地图</a>‖
+        <a href="http://www.fang.com/service/feedback/LeaveMess.aspx/" target="_blank">意见反馈</a>‖
+        <a href="http://wap.fang.com/xc/mobile.html" target="_blank">手机房天下</a>‖
+      <a href="http://www.fang.com/aboutus/copyright.html" target="_blank">服务声明</a>
+    </div>
+
+	<div class="verdana">Copyright &copy; <script language="javascript">
+                                                                                            var dt = new Date();
+                                                                                            y = dt.getFullYear(); //获取年(四位)
+                                                                                            document.write(y)</script> Soufun Holdings Limited, All Rights Reserved</div>
+	<div class="song" style="line-height:23px;position:relative;z-index:1">北京搜房科技发展有限公司 版权所有<a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000110800002"><img style="border:0pt none;position:absolute;right:249px;top:-18px;" src="http://img2.soufun.com/homepage/images/beian_min.gif"/></a></div>
+	<div class="song">文明办网文明上网 举报电话：<em>010-56318764</em> 举报邮箱：<a href="mailto:jubao@soufun.com" ><em>jubao@soufun.com</em></a></div>
+	
+</div>
+<!--20120411搜房网统一版尾end-->
+<script type="text/javascript" src="http://support.fang.com/resource/script/QianTai/support.dialogbox.js"></script>
+</div>
+				<script language="javascript" type="text/javascript" src="http://imgn.jiatx.com/jiatx/mall/outer/jtxpopup.js"></script>
+		<div class="blank10"></div>
+		<div class="blank10"></div>
+		<script language="javascript" type="text/javascript" src="http://bank0.bbs.fang.com/soufunbank/cuf.aspx?ufs="></script>
+		<!--20110322搜房网统一版尾end-->
+	</div>
+	<!--xiaoqu 主体 end-->
+
+	<!--online talk floating star-->
+		<!--online talk floating end-->
+
+		
+	<style>
+	.floating{width:50px;position:fixed; right:24px;bottom:120px;_position:absolute;_top:expression(documentElement.scrollTop+documentElement.clientHeight - this.offsetHeight-120); z-index:1000}
+	.floating a{display:block; width:50px;margin-bottom:10px;background:url(http://img1.soufun.com/house/detail_php/imageshequ/tools.gif) no-repeat;overflow:hidden;transition: all 0.2s ease-in-out;}
+	.floating .imgApp{ height:41px; background-position:0 0}
+	.floating a.imgApp:hover{ background-position:-50px 0 }
+	.floating .imgSale{ height:45px; background-position:0 -51px}
+	.floating a.imgSale:hover{ background-position:-50px -51px }
+	.floating .imgPG{height:44px; background-position:0 -107px}
+	.floating a.imgPG:hover{ background-position:-50px -107px}
+	.floating .imgLoan{ height:42px; background-position:0 -164px}
+	.floating a.imgLoan:hover{ background-position:-50px -164px}
+	.floating .imgUP{ height:42px; background-position:0 -218px}
+	.floating a.imgUP:hover{ background-position:-50px -218px}
+	/*ewm*/
+	.ewm-bg{width:82px; height:120px; height:118px\9;padding:6px 11px 0 11px;padding:8px 11px 0 11px\9; background:url(http://img1.soufun.com/house/detail_php/imageshequ/ewmBg.gif) no-repeat; top:-130px; right:-24px;position:absolute}
+	.ewm-bg .txt{color:#0876D3; padding-bottom:6px;padding-bottom:4px\9}
+	.ewm-bg .icoClse{ width:8px; height:8px; background:url(http://img1.soufun.com/house/detail_php/imageshequ/icoClose.gif) no-repeat; display:inline-block; cursor:pointer; top:10px; right:8px;position:absolute}
+	</style>
+	
+<div class="floating">
+	<div id="floatingBox">
+		 <div class="rel">
+			  <a href="javascript:void(0)" onclick="$('#dbox_1').toggle();" title="下载App" class="imgApp"></a>
+			  <!--ewm star-->
+			   <div class="ewm-bg" id="dbox_1">
+				 <p class="txt">随时随地找房</p>
+				 <p><img src="http://img1.soufun.com/house/detail_php/imageshequ/ewm.gif" width="82" height="82" /></p>
+				 <a class="icoClse" href="javascript:void(0)" onclick="$('#dbox_1').hide();"></a>
+			   </div>
+			   <!--ewm end-->
+		 </div>
+		 <a href="http://esf.sy.fang.com/newsecond/DelegateAndJx/Input.aspx?" target="_blank" title="我要卖房" class="imgSale"></a>
+		 <a href="http://fangjia.fang.com/default/fA-csy.htm" title="房产评估" target="_blank" class="imgPG"></a>
+		 <a href="http://dai.txdai.com/" target="_blank" title="我要贷款" class="imgLoan"></a>	 </div>
+	 <a  href="#dingbu" id="toDingBu" title="返回顶部" class="imgUP"></a>
+</div>
+	<script type="text/javascript" src="http://clickn.fang.com/stats/clickm2011.js"></script>	
+	<script type="text/javascript">
+		Clickstat.eventAdd(window, 'load', function(e){Clickstat.batchEvent('xqw_','sy');});
+	</script>
+	
+	<img height="1" src="http://click1n.soufun.com/newhouse_click_1617158423.gif" width="1"/>
+	</body>
+</html>
+
